@@ -1,0 +1,72 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.left {
+	width: 20%;
+	position: fixed;
+	background-color: pink;
+	min-height: 1500px;
+}
+
+.left a:link, .left a:visited, .left a:hover, .left a:active {
+	text-decoration: none;
+	color: white;
+}
+
+.left li {
+	list-style-type: none;
+}
+
+header {
+	max-width: 100%;
+}
+
+.header {
+    padding: 0px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.links ul {
+	padding-left: 10px;
+	margin-top: 3px;
+}
+
+.right {
+	float: right;
+	width: 80%;
+	padding: 0 50px;
+}
+
+.content{
+	max-width: 100%;
+	min-height: 600px;
+}
+
+footer {
+	max-width: 100%;
+	background-color: pink;
+}
+
+h1 {
+		font-size: 60px;
+		text-align: left;
+		text-decoration: none;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
