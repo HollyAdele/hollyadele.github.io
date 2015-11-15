@@ -49,9 +49,27 @@ img {
 	padding: 0 50px;
 }
 
+.right a:link, .right a:visited, .right a:hover, .right a:active {
+	text-decoration: none;
+	color: black;
+}
+
 .content{
 	max-width: 100%;
 	min-height: 600px;
+}
+
+table {
+	border: none;
+	margin: 0 auto;	/*centers table horizonally*/
+	border-radius: 10px; /*really rounded edges*/
+	background-color: pink
+}
+
+td {
+	border-bottom: 1px dotted black; /*cute size card feel*/
+	width: 75px; /*uniform width*/
+	text-align: center;
 }
 
 footer {

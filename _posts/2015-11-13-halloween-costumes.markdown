@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Halloween Costumes
-date: 2015-11-13 4:02 PM
-categories: my kids
+date: 2015-11-13
+categories: my-kids
 ---
 
 I biffed it this year.  I didn't want to spend the money on a store bought
