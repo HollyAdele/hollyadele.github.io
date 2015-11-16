@@ -5,13 +5,14 @@ date: 2015-11-14
 permalink: /gifting-guide/
 ---
 
-Last Updated: November 14, 2015
+Last Updated: November 15, 2015
 
 ###Bryan
 
-* shorts for next summer
+* Shorts for next summer
+* A really solid, durable, leather belt that can be worn in casual and business-casual (church) settings. I have a black and a brown one but both are wearing out and I don't want to replace them for another 30 years. Waist size: 30-31.
 * Winter Biking Gear
-* Sunglasses
+* Biking Sunglasses
 * Bike maintenance stuff or toolkits
 * "Note: I already have a great lock, a great lamp, a small patch kit, and a good-enough portable tire pump. I don't want a bike computer."
 
@@ -20,14 +21,6 @@ Last Updated: November 14, 2015
 * mascara and foundation
 * page protectors
 * computer mouse (wireless)
-* A cookbook like these:
-    * [The Joy of Cooking](http://www.amazon.com/Joy-Cooking-Irma-S-Rombauer/dp/0743246268)
-    * [How to Cook Everything](http://www.howtocookeverything.com/)
-    * [How to Cook Everything Fast](href='http://www.hmhco.com/shop/books/How-to-Cook-Everything-Fast/9780470936306)
-    * [America's Test Kitchen Cooking School]( http://www.amazon.com/Americas-Kitchen-Cooking-School-Cookbook/dp/1936493527/ref=sr_1_1?s=books&ie=UTF8&qid=1447272716&sr=1-1&keywords=america%27s+test+kitchen+cooking+school)
-    * [The Science of Good Cooking](http://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks-ebook/dp/B009POEWK6/ref=dp_kinw_strp_1)
-    * [Kitchen Hacks](http://americastestkitchen.buysub.com/homepage/kitchen-hacks-how-clever-cooks-get-things-done-2831.html)
-    * [The Complete Vegetarian Cookbook](http://americastestkitchen.buysub.com/homepage/the-america-s-test-kitchen-complete-vegetarian-cookbook.html)
 * [Speakers with an input jack](http://www.amazon.com/Logitech-Multimedia-Speakers-Multiple-Devices/dp/B00EZ9XKCM/ref=sr_1_3?ie=UTF8&qid=1443814733&sr=8-3&keywords=speakers)
 * [Shutterfly Gift Card](http://www.shutterfly.com/photo-gifts/gift-certificates)
 * [Deseret Bookshelf ebook gift card](https://deseretbook.com/p/gift-card)
