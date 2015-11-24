@@ -5,7 +5,7 @@ date: 2015-11-14
 permalink: /gifting-guide/
 ---
 
-Last Updated: November 15, 2015
+Last Updated: November 24, 2015
 
 ###Bryan
 
@@ -33,6 +33,7 @@ Last Updated: November 15, 2015
 * real cake decorating things (we have round cake pans)
 * iTunes gift card
 * Disney Princess stuff
+* [Disney Me Reader](https://www.google.com/search?q=disney+me+reader&rlz=1C1GGGE_enUS503US503&oq=disney+me+reader&aqs=chrome..69i57j69i60l4j69i59.2138j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=disney+me+reader&tbm=shop)
 
 ###Peter
 
@@ -41,6 +42,7 @@ Last Updated: November 15, 2015
 * [Thomas the Train](http://www.amazon.com/Fisher-Price-Thomas-Wooden-Railway-Engine/dp/B009K4E59O/ref=sr_1_2?ie=UTF8&qid=1443814962&sr=8-2&keywords=thomas+the+train)
 * [Play toolset](http://www.amazon.com/Fisher-Price-Drillin-Action-Tool-Set/dp/B00CQHZ0FU/ref=sr_1_1?ie=UTF8&qid=1443815079&sr=8-1&keywords=fisher+price+drillin+action)
 * Legos
+* [Disney Me Reader](https://www.google.com/search?q=disney+me+reader&rlz=1C1GGGE_enUS503US503&oq=disney+me+reader&aqs=chrome..69i57j69i60l4j69i59.2138j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=disney+me+reader&tbm=shop)
 
 ###Austin
 
@@ -85,7 +87,7 @@ Last Updated: November 15, 2015
 					</tr>
 					<tr>
 						<td>Austin</td>
-						<td>18mos</td>
+						<td>2t</td>
 						<td>18mos</td>
 						<td>3</td>
 					</tr>
