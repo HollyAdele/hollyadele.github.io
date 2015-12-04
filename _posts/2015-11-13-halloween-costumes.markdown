@@ -25,4 +25,4 @@ But here we are.  Heidi is a princess (sometimes she pretended to be Elsa, somet
   could pass as normal clothes.  Just in case the other parents' weren't dressed
   up, I wouldn't look like a doofus.
 
-![2015 Halloween Costumes](/royal-family.jpg)
+![2015 Halloween Costumes](/post-images/royal-family.jpg)
