@@ -5,7 +5,7 @@ date: 2015-11-14
 permalink: /gifting-guide/
 ---
 
-Last Updated: November 24, 2015
+Last Updated: December 3, 2015
 
 ###Bryan
 
@@ -15,6 +15,7 @@ Last Updated: November 24, 2015
 * Biking Sunglasses
 * Bike maintenance stuff or toolkits
 * "Note: I already have a great lock, a great lamp, a small patch kit, and a good-enough portable tire pump. I don't want a bike computer."
+* Bryan just got a face mask from a friend.
 
 ###Holly
 
@@ -29,6 +30,7 @@ Last Updated: November 24, 2015
 
 ###Heidi
 
+* Elsa nightgown
 * girly chapstick and lotion
 * real cake decorating things (we have round cake pans)
 * iTunes gift card
@@ -89,7 +91,7 @@ Last Updated: November 24, 2015
 						<td>Austin</td>
 						<td>2t</td>
 						<td>18mos</td>
-						<td>3</td>
+						<td>4</td>
 					</tr>
 				</tbody>
 			</table>
