@@ -2,7 +2,6 @@
 layout: post
 title: Hi, Ohio
 date: 2015-11-14
-categories: my-kids
 ---
 We moved!  Seven months ago.  I've been waiting until I set up this website to blog
 about it.
