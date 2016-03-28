@@ -6,8 +6,8 @@ date: 2016-03-28
 
 Heidi asked me to do something I did last year.  She wanted to have an Easter Seder, where we eat food symbolic of the Savior's last week.
 
-![homemade tortilla, fish sticks, honey nut cheerios, balsamic vinegarette, and grape juice](/post-images/easter-seder.jpg)
-I made [tortillas](http://thecafesucrefarine.com/2013/08/best-ever-homemade-flour-tortillas/), and shared how unleaved bread was part of [Passover](https://www.lds.org/scriptures/ot/deut/16.3,8?lang=eng#2) and served grape juice to symbolize the [wine](https://www.lds.org/scriptures/jst/jst-matt/26?lang=eng) at the Last Supper.
+![dinner](/post-images/easter-dinner.jpg)
+I made[tortillas](http://thecafesucrefarine.com/2013/08/best-ever-homemade-flour-tortillas/), and shared how unleaved bread was part of [Passover](https://www.lds.org/scriptures/ot/deut/16.3,8?lang=eng#2) and served grape juice to symbolize the [wine](https://www.lds.org/scriptures/jst/jst-matt/26?lang=eng) at the Last Supper.
 
 I offered 1 part vinegar for them to taste, then mixed it with 4 parts olive oil and salt and pepper and a little oregano to make a balsamic vinegarette to dip the (unleavened) bread in.  The vinegar represents the suffering of Christ.  It was [prophesied](https://www.lds.org/scriptures/ot/ps/69.21?lang=eng#20) that Christ would ask for water but would be given [vinegar](https://www.lds.org/scriptures/nt/john/19.29?lang=eng#28).
 
