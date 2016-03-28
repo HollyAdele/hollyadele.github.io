@@ -16,4 +16,12 @@ Of course, I am in charge of my day.  I choose what I do.  I am choosing to not 
 
 I've been trying to write out my obstacles and why I haven't been studying, and the excuses just sound so lame.
 
-I know that the blessings will outweigh the cost.  I know that the time will pay for itself in increased vision and happiness. I feel the Spirit right now as I write this, giving me confidence.  
+I know that the blessings will outweigh the cost.  I know that the time will pay for itself in increased vision and happiness. I feel the Spirit right now as I write this, giving me confidence.
+
+What has worked for me in the past:
+* Not sleeping until I have read enough to feel inspired.
+* Coloring lines of favorite verses with colored pencils.
+* Keeping scriptures next to my bed and reading as soon as I wake up, but before I feel like getting up.
+* Having questions about the gospel
+* Thinking about problems while reading the scriptures
+* Thoroughly preparing for talks and lessons
