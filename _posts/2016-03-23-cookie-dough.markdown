@@ -25,11 +25,38 @@ Finally, 1 cup chocolate chips.  Chocolate chips stand for Personal Progress.  E
 The blessings of your Young Women's Organization are ready to enjoy.  Don't forget to share those blessings with young women who didn't get any tonight, or last week, or the week before.
 
 Cookie Dough Recipe
+
 1/2 c butter (Weekly Activities)
+
 1/4 c granulated sugar (Kindness)
+
 (no dirt, or no offense and grudges)
+
 1/2 c brown sugar (forgiveness)
+
 3 T milk (Young Women's Camp)
+
 1 1/2 t vanilla (welcoming ward flavor)
+
 1 c flour (Sunday Meetings)
+
 1 c mini chocolate chips (Personal Progress)
+
+Family Home Evening Update
+
+My husband and I taught this lesson for Family Home Evening as the Lesson, Activity, and Treat (We quadrupled the recipe and put some in the freezer. Food storage, you know...)
+
+Butter stood for hard work (since it's hard work to turn milk into butter, and hard work is how you get nice things).
+
+White sugar is still kindness,
+dirt is still for meanness,
+brown sugar is for forgiveness (and my children chose forgiveness! I must have angels for children. :)
+
+Milk stands for helping, just like mommies help babies by giving them milk, we can help each other.
+
+Vanilla was for choice- letting siblings choose what they play instead of forcing them to do what you want.  
+Vinegar was threats (don't put that in your cookie dough)
+
+Flour is scripture stories (or family scripture study; we're just not there yet.)
+
+Chocolate chips are wholesome recreational activities.  Every time we ate a chocolate chip in the finished cookie dough, we said an activity we liked.  "Oooh!  I just got Bob stories!" "Here's Family Lego Day!" "This one is for camping this summer."
