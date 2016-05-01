@@ -39,7 +39,7 @@ Second Years gather under the Five Rivers Pavillion.
 Third Years, your spot is a bit farther. Pass the flood markers.
 ![Flood Markers](/post-images/hike/past-the-flood-markers.jpg)
 
-Keep your eyes open for these:
+Up for a scavenger hunt? Keep your eyes open for these:
 
 * Zorro's mark
 
@@ -53,7 +53,7 @@ Keep your eyes open for these:
 
 * Goose poop (This one should be really difficult. No goose would ever poop on sidewalk.)
 
-* And Sister Braun
+* And Sister Braun (You have to tell me your name and give me a hug to check this one off.)
 
 
 ![Holly Braun](/post-images/hike/sister-braun.jpg)
@@ -106,7 +106,7 @@ A Young Woman leader should be waiting here with snacks.  Code word: cookie mons
 ![benches and pavillion](/post-images/hike/grab-snacks-here.jpg)
 
 
-Say goodbye to your new friends and to the Young Women leader who stopped with your year. Find me, give me a hug, then your parents should be waiting for you in this parking lot at 8:30.  
+Say goodbye to your new friends and to the Young Women leader who stopped at the meeting spot with your year. Find me, give me a hug, then your parents should be waiting for you in this parking lot at 8:30.  
 ![parking lot](/post-images/hike/parents-park-here.jpg)
 
 Your Young Women leaders are still parked at the Dayton First Ward Building, so ask your parents to please give them a ride back to their cars.
