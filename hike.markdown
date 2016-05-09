@@ -19,7 +19,9 @@ Obey the light to cross Monument, and go between those bushes.
 ![Where to Cross Monument](/post-images/hike/cross-monument.jpg)
 
 
- First, Second, and Third Years: keep walking past these fountains. Fourth Years gather here for First-aid certification. Listen to your YCLs because they love you and they want you to learn things that can save lives.  When the YCLs finish, start hiking again and gather the other years when they are done.
+ First, Second, and Third Years: keep walking past these fountains. Fourth Years and Miamisburg YCLs gather here for First-aid certification. You'll learn first aid for a broken bone and how to transport an injured person.  You'll also review the Heimlich maneuver, rescue breathing, and CPR.
+
+ Listen to your YCLs because they love you and they want you to learn things that can save lives.  When the YCLs finish, start hiking again and gather the other years when they are done.
 ![Fourth Year Meeting Spot](/post-images/hike/fourth-year-spot.jpg)
 
 
@@ -27,15 +29,15 @@ Go down the stairs (or go down the ramp to the left if you are on wheels).
 ![Riverscape Stairs](/post-images/hike/down-the-stairs.jpg)
 
 
-First Years gather on the bottom step for your certification.  These are my children!  Heidi, Peter, and Austin.
+First Years and Kettering Ward YCLs gather on the bottom step for your certification.  You'll be learning about the purpose of First Aid, 4 steps when treating an accident victim, the Heimlich, what to do for excessive bleeding or poisoning, how to fold a cravat bandage, and what's in a first-aid kit and how to use each item.
 ![Bottom stairs](/post-images/hike/second-year-spot.jpg)
 
 
-Second Years gather under the Five Rivers Pavillion.
+Second Years and Englewood Ward YCLs gather under the Five Rivers Pavilion. You'll be learning what to do if someone faints or is in shock, has heat exhaustion or a stroke, and how to do rescue breathing.
 ![Five Rivers Pavillion](/post-images/hike/third-year-meeting-spot.jpg)
 
 
-Third Years, your spot is a bit farther. Pass the flood markers.
+Third Years and Dayton First Ward YCLs, your spot is a bit farther. Pass the flood markers.
 ![Flood Markers](/post-images/hike/past-the-flood-markers.jpg)
 
 Follow that path up to the right and cross the pedestrian bridge. My daughter Heidi is showing you the way.  By the way, she's five and she finished this whole hike.  So you totally can too.
@@ -46,7 +48,7 @@ Then cross the bridge.
 ![pedestrian bridge](/post-images/hike/cross-the-pedestrian-bridge.jpg)
 
 
-Third Years, you made it to your meeting spot!
+Third Years, you made it to your meeting spot! You'll learn what to do for an insect bite or sting, a burn, a blister, and a snake bite. You'll also learn CPR.
 ![Peace on Earth circle](/post-images/hike/first-year-spot.jpg)
 
 A Young Woman leader should be waiting nearby with snacks.  Code word: cookie monster.  Don't take snacks from someone who doesn't know the code word. And try to wait until everyone has gotten one before taking a second.
