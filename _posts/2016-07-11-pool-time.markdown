@@ -1,0 +1,7 @@
+---
+layout: post
+title: Pool Time
+date: 2016-07-11
+---
+
+![three kids in swimsuits](/post-images/pool-time.jpg)
