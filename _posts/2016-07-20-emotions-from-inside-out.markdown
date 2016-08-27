@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Purpose of Sadness
-date: 2016-07-11
+date: 2016-08-27
 ---
 
 I watched Inside Out for the first time last Thanksgiving.  I loved it.  It was a good movie, AND it explained so many things about life. I remember coming to the place where Joy realizes the purpose of Sadness and I found myself weeping.
@@ -28,4 +28,4 @@ Joy says to herself, "Mom and Dad, the team; they came to help because of Sadnes
 
 The movie plays scenes of times in Riley's childhood when she cried- times when she needed help from her parents.  Sadness gets us help, and it really calms others down.  If you notice, Riley's lead emotion is Joy.  Riley's dad's lead emotion is Anger.  Riley's mom's lead emotion is--Sadness.
 
-I see parents try to use Joy when their children are sad, and it really doesn't work. Use sadness!  Acknowledge the child's loss.  (We feel sad when we lose something.  A loved one, an opportunity, a key, an expected reward, a relationship.)  Say, "That's sad."  It's so powerful. 
+I see parents try to use Joy when their children are sad, and it really doesn't work. Use sadness!  Acknowledge the child's loss.  (We feel sad when we lose something.  A loved one, an opportunity, a key, an expected reward, a relationship.)  Say, "That's sad."  It's so powerful.
