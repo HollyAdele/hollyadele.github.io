@@ -10,6 +10,8 @@ Heidi is a pretty girl who loves fairies, princesses and mermaids.  Heidi is fiv
 
 Fairies are tiny creatures.  They live in a big country called Pixie Hollow. In the heart of Pixie Hollow, there is a big maple called the Home Tree.  The Home Tree is full of fairies:  Tink, Prilla, Rani, Fira, Bluebell, Iris, Lily, Queen Clarion, and many others.
 
+"Bluebell" sounds like "blueberry," doesn't it?  
+
 When I see a fairy for the first time, I will believe the complete part of Pixie Hollow. The complete part is when you believe in fairies and that it is true. You will know the complete part.
 
 Bluebell is a garden fairy I just learned about. She is in Lily in Full Bloom, an ebook on the Overdrive library app.
