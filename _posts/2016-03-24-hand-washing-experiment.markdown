@@ -12,7 +12,7 @@ Well, my mom sent me a present which has the potential to change my life.  It's 
 
 Being the homeschooling germ freak that I am, I also needed to test it on hands.  I heard about a first grader doing an experiment like this, so must be legit, right?
 
-The basic idea is that the kids play outside, then either wash with soap and water, hand sanitizer, or the Norwex Liger.
+The basic idea is that the kids play outside, then either wash with soap and water, hand sanitizer, or the Norwex Liger.  Then they handle a potato, put it in a bag, and then over weeks you watch the bacterial growth.  The number of different kinds of spots tell you how many germs were on your hands when you played with the potato.
 
 ![My supplies are all ready](/post-images/supplies.jpg)
 
@@ -58,3 +58,25 @@ Potato Bags
 They're on a box on top of our fridge. (Remind me to check on them.) The number of germ colonies growing should be related to the effectiveness of the hand-cleaning method, right?  I will get back to you about Norwex soon.
 
 But, sorry Norwex, e-Cloths get similar reviews but are cheaper.  So, if this experiment plays out, the next time I need to buy cleaning supplies, I will probably buy an e-Cloth instead.
+
+UPDATE SEPT 2, 2016: I realized that I never wrote about the result of this experiment.  Sorry.
+
+This was super interesting.  The pictures of the moldy potatoes did not turn out well.  The reflection from the bag made pictures unclear, and it would have been difficult to give an accurate sense of the germ colonies on the entire surface of 11 bags of potatoes.  But I did write down which were the dirtiest and which were the cleanest.  Here we go.
+
+Cleanest: The potatoes that were never played had zero growth on them.
+
+The next cleanest were the ones played with after washing hands with soap and water. They were covered with only one or maybe two kinds of germs.  It doesn't matter that it was covered with growth, because it stayed on our fridge for weeks.  The important part was there were only a few surviving organisms that were able to flourish.
+
+Very similar to hand washing was hand sanitizer.  I was surprised by this because I was biased against hand sanitizer by the first grader who did the original project.  They tested hand washing and hand sanitizer, and found that hand washing was cleaner.  However, when compared to not using anything at all... hand sanitizer was glorious.
+
+The dirtiest was the potato played with after the sandbox, and the next dirtiest was the one bagged after the playground.
+
+But still quite disgusting and even more disturbing, the number of germs that were on my children's hands BEFORE they got to the playground was VERY LARGE.  I wonder if they brought more germs to the park than they took home.  How would I measure that...?
+
+The water and Norwex Liger?  Virtually the same as not washing hands at all.  It is marketed for kids to dry off their hands after washing, to get that extra few germs off.  However, real hand washing for 20 seconds gets plenty of germs off while wiping hands on the Liger gets very few off.
+
+Also unfortunately, and unexpectedly, I had to throw away the Liger.  It was under my sink next to some other hand towels.  Either a small amount of water got on them, or I put a few down there still damp, but they were all a bit smelly and the Liger had grown mold on it (yes, on it's silver anti-bacterial fibers) and had molded my Time out for Women bag from Brenda. Which I also threw out.  People need to stop buying me things.  
+
+In the Liger's defense, not much can withstand Ohio summers.  The heat and humidity is perfect growing conditions for all kinds of flora and fauna inside one's house, and I have been waging a war with it for the past year and a half.  It isn't clear who is winning at the moment.
+
+This isn't as big of a problem in drier climates, and so it probably won't mold somewhere else.  Also, it was really effective at drying quickly.  So if it's marketed as a motivational quick-drying hand towel for children, I would say that if clean, wet children's hands are the biggest problem in your life, please purchase the Liger. 
