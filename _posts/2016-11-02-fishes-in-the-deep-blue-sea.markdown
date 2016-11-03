@@ -4,7 +4,7 @@ title: Fishes in the Deep Blue Sea
 date: 2016-11-02
 ---
 
-I'm learning JavaScript, and here is my second project. My first is [here](http://codepen.io/HollyAdele/pen/QGLOQx).
+I'm learning JavaScript, and here is my second project. My first is [here](http://codepen.io/HollyAdele/full/QGLOQx/).
 
 Austin loves the song, "There are so many fishes in the deep blue sea! What color fishie do you see?" "Blue." "Blue!  Blue.  This one's blue.  This little fishie is blue.  There are so many..."
 
@@ -20,4 +20,4 @@ For it I need these images to be on the web.  (I made them!)
 ![yellow fish](/post-images/fishes/yellow-fish.jpg)
 ![deep blue sea](/post-images/fishes/sea.jpg)
 
-If you really want to, you can see the game [here](http://codepen.io/HollyAdele/pen/ZBzoZp).
+If you really want to, you can see the game [here](http://codepen.io/HollyAdele/full/ZBzoZp/).
