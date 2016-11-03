@@ -17,6 +17,6 @@ For it I need these images to be on the web.  (I made them!)
 ![purple fish](/post-images/fishes/purple-fish.jpg)
 ![red fish](/post-images/fishes/red-fish.jpg)
 ![white fish](/post-images/fishes/white-fish.jpg)
-![yellow fish](/post-images/fishes/blue-fish.jpg)
+![yellow fish](/post-images/fishes/yellow-fish.jpg)
 
-If you really want to, you can see the game [here](http://codepen.io/HollyAdele/pen/ZBzoZp). 
+If you really want to, you can see the game [here](http://codepen.io/HollyAdele/pen/ZBzoZp).
