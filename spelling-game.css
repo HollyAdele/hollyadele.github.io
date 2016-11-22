@@ -1,0 +1,43 @@
+html {
+  font-family: Open-Sans, sans-serif;
+  text-align: center;
+  width:100%;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0px 0px 0px 0px;
+}
+
+#question {
+   word-spacing: -6px;
+   letter-spacing: -6px;
+}
+#showMe {
+    color: white;
+}
+
+span {
+   word-spacing: normal;
+   letter-spacing: normal;
+   display: inline-block;
+}
+
+button {
+    background-color: #b19bd9; /* Lavendar */
+    border: none;
+    color: white;
+    padding: 15px 3px 15px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+    border-radius: 3px;
+    width: 30%;
+    margin: 10px 0px;
+}
+
+image {
+  width: 100%;
+  max-width: 300px;
+}

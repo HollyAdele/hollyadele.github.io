@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spelling Game</title>
+        <link rel="stylesheet" type="text/css" href="spelling-game.css">
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700" rel="stylesheet" type="text/css"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1 id="question">
+            <span id="before"></span><!---->
+            <span id="vowel">h</span><!---->
+            <span id="after"></span>
+        </h1>
+        <h1 id="showMe">
+        </h1>
+
+        <img id="image" src="http://www.hollybraun.com/post-images/making-pancakes.jpg">
+
+        <div id=options>
+            <button onclick="fillIn(answerA)" id="answer1">Choice 1</button>
+            <button onclick="fillIn(answerB)" id="answer2">Choice 2</button>
+            <button onclick="fillIn(answerC)" id="answer3">Choice 3</button>
+        </div>
+
+        <div id="controls">
+            <button id="reveal" onclick="reveal(event)">Check</button>
+            <button id="refresh" onclick="location.reload(true)">Next</button>
+        </div>
+        <script src="spelling-game.js"></script>
+    </body>
+</html>

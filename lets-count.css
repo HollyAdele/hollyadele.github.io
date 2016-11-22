@@ -1,0 +1,30 @@
+button {
+    border: none;
+    width: 100%;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 4em;
+    border-radius: 15px;
+    font-family: Open Sans, sans-serif;
+    margin-bottom: 9px;
+    margin-top: 9px;
+    font-weight: normal;
+}
+
+#valueGreen {
+    background-color: #39F9C7;
+}
+
+#valueBlue{
+    background-color: #08E6F1;
+}
+
+#valuePurple{
+    background-color: #60C3FE;
+}
+
+#valueRed{
+    background-color: #5280EF;
+}
