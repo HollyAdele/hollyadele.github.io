@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+button {
+  font-size: 1em;
+  font-family: Open Sans, sans-serif;
+  border-radius: 4px;
+  shadow: none;
+  background-color: pink;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#image {
+  max-width: 100%;
+  margin: auto;
+}
