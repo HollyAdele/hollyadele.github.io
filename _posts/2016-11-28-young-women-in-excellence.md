@@ -18,5 +18,8 @@ I wanted Heidi to practice ways to spell verb digraphs.  She knows when a word l
 [Play Primary Songs](http://hollybraun.com/apps/primary-songs.html). <br>
 A simple Primary Song player. <br>
 
+[How Many Days?](http://hollybraun.com/apps/how-many-days.html). <br>
+My answer to my children's daily question, "Is today Christmas Eve?"
+
 [Name That Primary Song](http://hollybraun.com/apps/name-that-primary-song.html). <br>
 And, the most difficult so far, Name That Primary Song.  As far as I know, this is the only app of this game on the internet.  I used to love playing this game in Primary, and could never get enough. (I think I've gotten enough now.) <br>
