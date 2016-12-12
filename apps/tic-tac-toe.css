@@ -1,0 +1,80 @@
+table {
+  margin: auto;
+  padding: 0;
+}
+
+button {
+  font-family: Comic Sans MS, sans-serif;
+  font-size: 70px;
+  background: none;
+  border: none;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+#one {
+  border-style: solid;
+  border-width: 0 3px 3px 0;
+}
+
+#two {
+  border-style: solid;
+  border-width: 0 3px 3px 3px;
+}
+
+#three {
+  border-style: solid;
+  border-width: 0 0 3px 3px;
+}
+
+#four {
+  border-style: solid;
+  border-width: 3px 3px 3px 0;
+}
+
+#five {
+  border-style: solid;
+  border-width: 3px 3px 3px 3px;
+}
+
+#six {
+  border-style: solid;
+  border-width: 3px 0 3px 3px;
+}
+
+#seven {
+  border-style: solid;
+  border-width: 3px 3px 0 0;
+}
+
+#eight {
+  border-style: solid;
+  border-width: 3px 3px 0 3px;
+}
+
+#nine {
+  border-style: solid;
+  border-width: 3px 0 0 3px;
+}
+
+.greenBox {
+    font-family: sans-serif;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 2em;
+    margin: auto;
+    width: 300px;
+    height: 75px;
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+#reset {
+    margin-top: 10px;
+}
