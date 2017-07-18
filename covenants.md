@@ -25,3 +25,15 @@ The children of Israel looked back on that promise through the years. Nephi enco
 And this experience was used again, when the Lord was teaching Oliver Cowdery a feature of his covenant: "I will tell you in your mind and in your heart, by the Holy Ghost... this is the spirit of revelation and the spirit by which Moses brought the children of Israel through the Red Sea on dry ground." [Doctrine and Covenants 8:2-3](https://www.lds.org/scriptures/dc-testament/dc/8.2-3?lang=eng)
 
 The Lord delivers His covenant people.  "The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised." [Luke 4:18](https://www.lds.org/scriptures/nt/luke/4.18)
+
+I just realized that the lesson I was supposed to teach was about obedience... so let's return to obedience for a minute.
+
+Because God will forgive us, why do we have to be obedient?  Because obedience shows the change of heart which is required in true repentance.  Brad Wilcox shared [a parable](https://speeches.byu.edu/talks/brad-wilcox_his-grace-is-sufficient/) that clarified for me the position of obedience in relation to covenants, repentance, and forgiveness.  
+
+When a mom pays for a child's piano lesson, the child is expected to practice the piano throughout the week.  Practicing the piano does not pay the mother back, but it is still required because the mother wants her child to grow. The Savior paid for our sins.  Service and ordinances are like practicing the piano.  They don't pay back the Savior, and they don't earn us piano lessons.  They just change us into the kind of people who will be comfortable in his presence.  It was a landmark talk, and he, of course, didn't butcher it like I just did.
+
+Another amazing article when it comes to covenants and temple prep is [this Ensign article](https://www.lds.org/liahona/2012/07/understanding-our-covenants-with-god?lang=eng).  I wish it had been written when I was preparing to go to the temple.
+
+Here is a picture of all the fun I had on the white board.  You'll be disappointed to know that my drawing of Hosea and his "wife of whoredoms" didn't come through, but we did generate some interesting questions during the lesson, written there in green, that might be fun to study on your own.
+
+![Writing on whiteboard about covenants](/post-images/covenants-lesson.jpg)
