@@ -1,0 +1,40 @@
+img {
+  width: 100%;
+}
+
+.candle {
+  display: block;
+  position: absolute;
+  width: 10%;
+  top: 170px;
+  z-index: 2;
+  margin-left: 45%;
+}
+
+#frosting {
+  display: block;
+  z-index: -1;
+  overflow: hidden;
+  position: relative;
+  top: -50px;
+}
+
+.button {
+  height: 50px;
+  width: 100px;
+  border: none;
+  display: block;
+  background-color: white;
+}
+
+#candleDiv {
+  width: 40%;
+  display: block;
+  float: right;
+}
+
+#frostingChoiceDiv {
+  width: 40%;
+  display: block;
+  float: left;
+}
