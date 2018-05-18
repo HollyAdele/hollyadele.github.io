@@ -2,39 +2,38 @@ img {
   width: 100%;
 }
 
-.candle {
-  display: block;
-  position: absolute;
-  width: 10%;
-  top: 170px;
-  z-index: 2;
-  margin-left: 45%;
-}
-
-#frosting {
-  display: block;
-  z-index: -1;
-  overflow: hidden;
-  position: relative;
-  top: -50px;
-}
-
-.button {
-  height: 50px;
+button {
   width: 100px;
+  height: 50px;
   border: none;
-  display: block;
   background-color: white;
+  display: block;
 }
 
 #candleDiv {
   width: 40%;
-  display: block;
   float: right;
+  display: block;
 }
 
 #frostingChoiceDiv {
-  width: 40%;
-  display: block;
+ width: 40%;
   float: left;
+  display: block;
+}
+
+.candle {
+  width: 10%;
+  position: absolute;
+  top: 170px;
+  margin-left: 40%;
+  display: block;
+  z-index: 1;
+}
+
+#cake {
+  display: block;
+  position: relative;
+  top: -25px;
+  z-index: -1;
 }
