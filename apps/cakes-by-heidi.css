@@ -37,3 +37,18 @@ button {
   top: -25px;
   z-index: -1;
 }
+
+#heart {
+  width: 10%;
+  position: absolute;
+  display: block;
+  margin-left: 40%;
+  z-index: 2;
+  top: 350px
+}
+
+#heartButton {
+  width: 40%;
+  float: right;
+  display: block;
+}
