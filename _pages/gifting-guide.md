@@ -7,30 +7,23 @@ permalink: /gifting-guide/
 
 Last Updated: April 22, 2016
 
-###Bryan
+### Bryan
 
 
-
-###Holly
+### Holly
 
 * [Shutterfly Gift Card](http://www.shutterfly.com/photo-gifts/gift-certificates)
 * [Deseret Bookshelf ebook gift card](https://deseretbook.com/p/gift-card)
 
-
-
-###Heidi
+### Heidi
 
 * [Live butterfly garden](http://www.reallygoodstuff.com/original-butterfly-garden/p/900604/Blue/?gclid=Cj0KEQjwl-e4BRCwqeWkv8TWqOoBEiQAMocbP1xiocGTIwqEBfr12MMFT7qPRBrzj5-byU2vHWgpOp0aAs9b8P8HAQ)
 
 
-###Peter
+### Peter
 
 
-
-###Austin
-
-
-
+### Austin
 
 <table>
 				<thead>
