@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+/*   gets rid of a margin around the whole web page */
+}
+
+.sky {
+  background-color: #A5BEF1; /*blue*/
+  width: 100%;
+  height: 200px;
+  position: relative; /*this is the container that holds the top of the ruler, the controls, and the stack container where the crates will go.*/
+}
+
+.grass {
+  background-color: #1D9737; /*green*/
+  max-width: 100%;
+  height: 1000px;
+  position: relative; /*This is the container that holds the bottom half of the ruler, four grass blocks, and the hole image.*/
+}
+
+.ruler {
+  position: absolute; /*I wanted the ruler to be positioned relative to the sky and grass.*/
+  left: 25px;
+}
+
+.notch {
+  height:50px;
+  border-bottom: solid 2px;
+  text-align: right;
+  padding: 2px;
+  margin: 0px;
+  box-sizing: border-box; /*This puts the border inside the box and not around it*/
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-family: system-ui;
+  font-size: 12px;
+  background-color: #995D3E; /*brown*/
+  width: 27px; /*thickness of ruler*/
+}
+
+.stackContainer { /*Where crates will go*/
+  display: block; /*Starts on a new line, takes up whole width*/
+  position: absolute; /*I want to position this in the sky.*/
+  bottom: 0px; /*I want the stack container to fall to the ground*/
+  left: 65px;
+  z-index: 3; /*so that the crates will always be the top layer*/
+  width: 50px;
+}
+
+.crate {
+  display: block; /*starts on a new line, takes up the whole line, obeys height and width properties*/
+  left: 65px;
+}
+
+.negativeCrateOne {
+  position: absolute; /*I wanted this to be relative to the top of the grass*/
+  bottom: -50px; /*Sets how deep the crate will be*/
+}
+
+.negativeCrateTwo {
+  position: absolute;
+  bottom: -100px;
+}
+
+.negativeCrateThree {
+  position: absolute;
+  bottom: -150px;
+}
+
+.negativeCrateFour {
+  position: absolute;
+  bottom: -200px;
+}
+
+.hole {
+  display: block; /*starts on a new line, takes up the whole line, obeys height and width properties*/
+  left: 65px;
+  position: relative; /*gives child elements their reference point*/
+}
+
+.grassBlock {
+  background-color: #1D9737; /*green*/
+  height: 50px;
+  width: 50px;
+  z-index: 2;
+  display: block; /*starts on a new line, takes up the whole line, obeys height and width properties*/
+  position: absolute; /*takes its reference point from .hole*/
+}
+
+/*grass blocks. each grass block is individually placed in certain spots, they aren't placed with block positioning. Yet.*/
+#negOne {
+  top: 0; /*from the top of the grass*/
+}
+
+#negTwo {
+  top: 50px;
+}
+
+#negThree {
+  top: 100px;
+}
+
+#negFour{
+  top: 150px;
+}
+
+.mathSentence {
+  position: absolute; /*positioned with reference to the sky*/
+  width: 157px; /*a random width for the brown box*/
+  margin: 0px;
+  padding: 10px; /*chooses the height of the brown box*/
+  right: 25px; /*sticks the box to the right side of the screen*/
+  top: 50px; /*sticks this to the top of the screen*/
+  font-family: system-ui;
+  font-size: 12px;
+  background-color: #995D3E; /*brown*/
+  border: 1px solid #000; /*black*/
+  color: #000; /*black*/
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.button {
+  position: absolute; /*applies to four up/down buttons to change holes and crates*/
+}
+
+.x {
+  right: 130px;
+}
+
+.y {
+  right: 100px;
+
+}
+
+.down {
+  top: 100px;
+}
+
+.up {
+  top: 20px;
+
+}
