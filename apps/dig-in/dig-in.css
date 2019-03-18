@@ -104,40 +104,57 @@ body {
 }
 
 .mathSentence {
-  position: absolute; /*positioned with reference to the sky*/
-  width: 157px; /*a random width for the brown box*/
+  position: absolute;/* positioned with reference to the sky*/
   margin: 0px;
   padding: 10px; /*chooses the height of the brown box*/
-  right: 25px; /*sticks the box to the right side of the screen*/
-  top: 50px; /*sticks this to the top of the screen*/
+  bottom: 14px;
+  left: 0;
+  right: 0;
   font-family: system-ui;
-  font-size: 12px;
-  background-color: #995D3E; /*brown*/
-  border: 1px solid #000; /*black*/
-  color: #000; /*black*/
+  font-size: 16px;
+  background-color: #7E7E7E;
+  border: 0px solid #000; /*black*/
+  color: white;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 .button {
+  background-color: #7A82B9;
+  border: 0px;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
   position: absolute; /*applies to four up/down buttons to change holes and crates*/
+  border-radius: 4px;
 }
 
 .x {
-  right: 130px;
+  left: 0;
 }
 
 .y {
-  right: 100px;
-
+  right: 0;
 }
 
 .down {
-  top: 100px;
+  top: 58px;
+  width: 43%;
 }
 
 .up {
-  top: 20px;
+  top: 0;
+  width: 43%;
+}
 
+.controls {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  bottom: 0;
+  width: 170px;
 }

@@ -16,7 +16,8 @@ function addCrate() {
     crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
     crateIMG.setAttribute("class", "crate");
     stack.appendChild(crateIMG);
-}}
+  }
+}
 
 //Takes away a positive. Does not add a negative. One case for 4,3,2, or 1 crates. Four more cases for -1, -2, -3, and -4 crates. I thought about for each of those negative cases, just run digHole.  But if I want to animate it, I should individually add them here. Also if I want to explain what taking away a positive always means. It would be simpler to say that positives are crates and negatives are wholes.  But I have done a lot of work thinking up different ways to think about it and I'm proud of it and I want to share that. I want to show that + -2 is different than - + 2, but that you can think of it the same. And I want to be able to show that even when crates <=0.
 
@@ -28,48 +29,55 @@ function takeCrate() {
     var ground = crates-holes;
     stack.removeChild(stack.lastChild);
     console.log(crates + " crates " + holes + " holes ground " + ground);
+  }
 
-//...we have a problem.  I add crates underground, but I haven't animated their motion. So they are still there underground and I haven't changed the bottom property of the stackContainer.   So if I add positive crates, it should fill in the holes left by negative crates, but it doesn't.  It just adds crates on top of the stack.
+  // Potential future enhancement:
+  // We _could_ allow for "negative crates", which would allow the first term
+  // of our equation to become negative (visualized by filling someone else's
+  // crate with your dirt). The code below was a first pass on implementing this.
+  // We didn't finish, so we commented out the work in progress below.
 
-//for taking negative crates, which are just crates inside a hole, the function decrements crates, updates brown box, creates a crate, sets it to live in the proper space, and logs the status.  The function repeats everything except which class to assign it to. Later, simplify this and other functions by doing the common things first, then splitting out by crate number.
-} else if (crates == 0) {
-    crates--;
-    updateEquation();
-    var ground = crates - holes;
-    var crateIMG = document.createElement("img");
-    crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
-    crateIMG.setAttribute("class", "negativeCrateOne");
-    stack.appendChild(crateIMG);
-    console.log(crates + " crates " + holes + " holes ground " + ground);
-} else if (crates == -1) {
-    crates--;
-    updateEquation();
-    var ground = crates - holes;
-    var crateIMG = document.createElement("img");
-    crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
-    crateIMG.setAttribute("class", "negativeCrateTwo");
-    stack.appendChild(crateIMG);
-    console.log(crates + " crates " + holes + " holes ground " + ground);
-} else if (crates == -2) {
-    crates--;
-    updateEquation();
-    var ground = crates - holes;
-    var crateIMG = document.createElement("img");
-    crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
-    crateIMG.setAttribute("class", "negativeCrateThree");
-    stack.appendChild(crateIMG);
-    console.log(crates + " crates " + holes + " holes ground " + ground);
-} else if (crates == -3) {
-    crates--;
-    updateEquation();
-    var ground = crates - holes;
-    var crateIMG = document.createElement("img");
-    crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
-    crateIMG.setAttribute("class", "negativeCrateFour");
-    stack.appendChild(crateIMG);
-    console.log(crates + " crates " + holes + " holes ground " + ground);
-}
-
+  //...we have a problem.  I add crates underground, but I haven't animated their motion. So they are still there underground and I haven't changed the bottom property of the stackContainer.   So if I add positive crates, it should fill in the holes left by negative crates, but it doesn't.  It just adds crates on top of the stack.
+  // for taking negative crates, which are just crates inside a hole, the function decrements crates, updates brown box, creates a crate, sets it to live in the proper space, and logs the status.  The function repeats everything except which class to assign it to. Later, simplify this and other functions by doing the common things first, then splitting out by crate number.
+  /*
+  else if (crates == 0) {
+      crates--;
+      updateEquation();
+      var ground = crates - holes;
+      var crateIMG = document.createElement("img");
+      crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
+      crateIMG.setAttribute("class", "negativeCrateOne");
+      stack.appendChild(crateIMG);
+      console.log(crates + " crates " + holes + " holes ground " + ground);
+  } else if (crates == -1) {
+      crates--;
+      updateEquation();
+      var ground = crates - holes;
+      var crateIMG = document.createElement("img");
+      crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
+      crateIMG.setAttribute("class", "negativeCrateTwo");
+      stack.appendChild(crateIMG);
+      console.log(crates + " crates " + holes + " holes ground " + ground);
+  } else if (crates == -2) {
+      crates--;
+      updateEquation();
+      var ground = crates - holes;
+      var crateIMG = document.createElement("img");
+      crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
+      crateIMG.setAttribute("class", "negativeCrateThree");
+      stack.appendChild(crateIMG);
+      console.log(crates + " crates " + holes + " holes ground " + ground);
+  } else if (crates == -3) {
+      crates--;
+      updateEquation();
+      var ground = crates - holes;
+      var crateIMG = document.createElement("img");
+      crateIMG.setAttribute("src", "http://www.hollybraun.com/apps/dig-in/crate.png");
+      crateIMG.setAttribute("class", "negativeCrateFour");
+      stack.appendChild(crateIMG);
+      console.log(crates + " crates " + holes + " holes ground " + ground);
+  }
+  */
 }
 
 //creates an object to use for the hole, updates the brown box, increments holes, should I be incrementing before I update ground?
@@ -77,11 +85,13 @@ function takeCrate() {
 //depending on the number of holes, it removes a certain green square and sets the CSS propety 'bottom' to a height that makes sense.  Maybe in the future create a formula that will calculate it on the fly.
 function digHole() {
   if (holes < 4) {
-  var hole = document.querySelector(".hole");
-  var ground = crates-holes;
-  holes++;
-  updateEquation();
-  console.log(crates + " crates " + holes + " holes ground " + ground);
+
+    var hole = document.querySelector(".hole");
+    var ground = crates-holes;
+    holes++;
+    updateEquation();
+    console.log(crates + " crates " + holes + " holes ground " + ground);
+
     if (holes === 1) {
       var negOne = document.querySelector("#negOne");
       hole.removeChild(negOne);
@@ -95,7 +105,9 @@ function digHole() {
       var negFour = document.querySelector("#negFour");
       hole.removeChild(negFour);
     }
-      stack.style.bottom = (holes * 50 * (-1)) + "px";
+    
+    stack.style.bottom = (holes * 50 * (-1)) + "px";
+
   }
 }
 
@@ -109,19 +121,19 @@ function fillHole() {
     console.log(crates + " crates " + holes + " holes ground " + ground);
     var grassBlock = document.createElement("div");
     grassBlock.setAttribute("class", "grassBlock");
-   switch (holes) {
-     case 0:
-       grassBlock.setAttribute("id", "negOne");
-       break;
-     case 1:
-       grassBlock.setAttribute("id", "negTwo");
-       break;
-     case 2:
-       grassBlock.setAttribute("id", "negThree");
-       break;
-     case 3:
-       grassBlock.setAttribute("id", "negFour");
-   }
+    switch (holes) {
+      case 0:
+        grassBlock.setAttribute("id", "negOne");
+        break;
+      case 1:
+        grassBlock.setAttribute("id", "negTwo");
+        break;
+      case 2:
+        grassBlock.setAttribute("id", "negThree");
+        break;
+      case 3:
+        grassBlock.setAttribute("id", "negFour");
+    }
     stack.style.bottom = (holes * 50 * (-1)) + "px";
     hole.appendChild(grassBlock);
   }
