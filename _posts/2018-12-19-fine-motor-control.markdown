@@ -77,3 +77,15 @@ Scrapbooking! An epic mess.
 ![an empty bottle with a twist lid](/post-images/fine-motor-skills/twist-jar.jpg)
 
 ![a glass tray with two cups and a pipette to transfer water](/post-images/fine-motor-skills/water-transfer.jpg)
+
+![a jar of paperclips and some pieces of paper](/post-images/fine-motor-skills/paper-clips.jpg)
+
+![screwdriver practice](/post-images/fine-motor-skills/screwdriver.jpg)
+
+![tiny dot stickers](/post-images/fine-motor-skills/tiny-dots.jpg)
+
+![chenille stems twisted in the shape of a tree with pony beads to thread onto it](/post-images/fine-motor-skills/bead-tree.jpg)
+
+![Erika playing with a bead tree](/post-images/fine-motor-skills/erikas-bead-tree.jpg)
+
+![sewing a stuffed animal](/post-images/fine-motor-skills/erikas-monster.jpg)

@@ -1,0 +1,35 @@
+---
+layout: post
+title: Elementary School Science and Social Studies Topics
+date: 2019-02-23
+---
+
+I have this habit of getting interested (read: obsessed) with high-detail, repetative projects where I'm filled with self-doubt because I don't know if anyone ever will benefit from my effort. 
+
+Here is my most recent. It is a map of elementary science and social studies topics from the Ohio state standards documents. I felt compelled to read through them all and boil each one down to just a few words and then put them on a single sheet. (I coded this table with html, btw.)
+
+<table style="width:100%">
+    <tr>
+        <th>Grade</th>
+        <th>Earth and Space Science</th>
+        <th>Life Science</th>
+        <th>Physical Science</th>
+        <th>History</th>
+        <th>Geography</th>
+        <th>Government</th>
+        <th>Economics</th>
+    </tr>
+    <tr>
+        <td>Kindergarten</td>
+        <td>seasons, weather, temperature, precipitation, wind, air, observe the moon, sun, stars</td>
+        <td>observe living things</td>
+        <td>sorting, sound</td>
+        <td>time, personal history, cultures, flag, pledge, anthem</td>
+        <td>maps, individual differences and similarities</td>
+        <td>responsibilities, rules, authority</td>
+        <td>goods and services</td>
+    </tr>
+    <tr>
+        <td>Grade One</td>
+    </tr>
+</table>
