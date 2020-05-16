@@ -6,7 +6,7 @@ date: 2020-05-15
 
 We have nowhere to go this summer, and it feels bad to have nowhere to go and nothing to do, so we are going to learn and grow and make. ...We are going to homeschool through the summer. I sort of think we'll be distance learning next year too, and I think I'd rather homeschool for real instead of do another year of distance learning. So we're practicing during the summer, to see if the kids will listen to me, if I can take care of all five kids and homeschool, and to see if I even like it. I've always loved the ***idea*** of homeschooling, and a pandemic is an excellent time to try it out. The kids are a little cheesed about losing their summer (that was not going to be quite the same anyway) but I think they believe me that they want good things to do.  And in the end I'm the one who controls whether they get treats or screen time. They'll be happy later in life, right?
 
-##Overarching theme of learning: Moon Base 12
+## Overarching theme of learning: Moon Base 12
 
 One day, Austin was bored so Bryan told him to go play Moon Base 12, which was invented in that instant.  They played for days. I realized I could use that game to teach them about space science... I taught them how to make oxygen out of water, where astronauts get their water, how to grow plants in space, solar panels, and how to poop in space (which is inconvenient without gravity).  
 
@@ -20,7 +20,7 @@ It's important that kids choose what they learn. You can't compete with someone 
 
 We asked them, "What do you want to learn this summer?" And then we had a magical journey of voting and persuading and vetoing and narrowing and compromise until we settled on Moon Base 12. (Did you know it's one of NASA's top priorities to actually make a moon base?)
 
-##Daily Schedule
+## Daily Schedule
 
 They should wake up at 8. I have made a schedule to determine which of my older kids (9,7,5) will dress, feed, or clean up the little girls (3,1).  They rotate every day. Things might be easier to remember if we rotated every week or every month, but I think they would complain more. In the Montessori philosophy, Practical Life activities are important for fine motor skills, critical thinking and problem solving. Service is important in building character. And babysitting practice now can make a little bit of money in the future for them. 
 
@@ -47,21 +47,21 @@ From 6-7, kids can play on devices if they finished their schoolwork. If they di
 The kids listen to Saints while they fall asleep. They really like it. I started them on it because Peter asked about plural marriage, and that book does a great job of saying what we know and what we don't. And what we didn't know twenty years ago, but do now.  I start the recording on the next chapter every night, and it plays until I go to bed. 
 
 To recap:
-Moon Base 12 (STEM)
-Braun Times (Writing)
-Astronaut Certification (math or typing or piano)
-Libby ebooks (reading practice)
-Bedtime Stories (literature)
-Babysitting (service and practical life)
-Whiteboards (everything else. religion, character, chores, engineering, science content, social studies)
+Moon Base 12 (STEM)   
+Braun Times (Writing)    
+Astronaut Certification (math or typing or piano)   
+Libby ebooks (reading practice)   
+Bedtime Stories (literature)   
+Babysitting (service and practical life)   
+Whiteboards (everything else. religion, character, chores, engineering, science content, social studies)   
 
-8:00 Wake up, get dressed, make bed, eat breakfast, feed sisters. Mom study.
-9:00 Study
-11:00 Recess
-12:00 Lunch
-1:00 Create
-3:30 Snacktime
-5:00 Dinner
-6:00 Screen Time
-7:00 Pajamas, toothbrushing, Daily Demos, bedtime story
-9:00 Lights out (A.K.A fighting time, water time, bathroom time, blanket finding time, complaining time, first aid time...)
+8:00 Wake up, get dressed, make bed, eat breakfast, feed sisters. Mom study.   
+9:00 Study   
+11:00 Recess   
+12:00 Lunch   
+1:00 Create   
+3:30 Snacktime   
+5:00 Dinner   
+6:00 Screen Time   
+7:00 Pajamas, toothbrushing, Daily Demos, bedtime story   
+9:00 Lights out (A.K.A fighting time, water time, bathroom time, blanket finding time, complaining time, first aid time...)   
