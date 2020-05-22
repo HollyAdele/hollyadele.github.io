@@ -19,7 +19,7 @@ I hear a lot of comments that people who hate math got stuck on fractions. And b
 The number written on the pie piece is how many pieces there should be. Halfs and fourths fit together. This makes fractions intuitive. 
 [![fraction circles for sale](/post-images/buy-fraction-pies.png)](https://www.amazon.com/Simply-Magic-Magnetic-Fraction-Circles/dp/B07NMFSGL7)
 
-Don't be cranky about how your children use the toys. Except breaking or losing them, there's no wrong way. They internalize the concepts with every blueberry pie they create and every tower they build with tiny cubes. Classrooms probably need to be cranky because there's so many kids and limited time, but your house doesn't have that constraint. 
+Don't be cranky about how your children use the toys. Except breaking or losing them, there's no wrong way. They internalize the concepts with every blueberry pie they create out of foam magnets and every tower they build with tiny cubes. Classrooms probably need to be cranky because there's so many kids and limited time, but your house doesn't have that constraint. 
 
 I keep these up high, and occaisionally pull them out. When a child has a problem with a math puzzle I give them the math toy and it helps. 
 
