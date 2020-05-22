@@ -24,3 +24,8 @@ Don't be cranky about how your children use the toys. Except breaking or losing 
 I keep these up high, and occaisionally pull them out. When a child has a problem with a math puzzle I give them the math toy and it helps. 
 
 *assuming that academic success will help them in their lives. I'm not positive this is true, and until I figure it out I'm going to keep writing this post and buying my children math toys. 
+
+Edit: I have to add this book.
+[![number work](/post-images/number-work.png)](https://www.abebooks.com/Montessori-Number-Work/30624292510/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-used-_-naa&gclid=CjwKCAjw8J32BRBCEiwApQEKgapCmJxD2uCjpmu0bOTicff6wducB7YCgJaKDa2nSmym5veiFCbgjhoCMZUQAvD_BwE)
+
+Gotta memorize those counting words. The numbers are raised and textured, so the child's hand starts tracing the pattern. As much as I hate memorization and algorithms, you NEED to start writing down math problems at about fourth grade, or your brain explodes. (And teachers make you start from the very beginning, which I probably didn't do enough of with my children. I focused on mental math. Which helps, but it's not everything.)
