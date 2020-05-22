@@ -15,6 +15,7 @@ If you see something new and you like it, you can always find it cheaper, with t
 
 ### Giving and Receiving Feedback, by Savannah
 ![Copyright radical candor graphic](/post-images/radical-candor.png)
+
 Here is a copyrighted image that I copied. 
 
 When giving feedback, you should actually give good information to people. It doesn't help them to spare their feelings. If you're trying to spare their feelings, that means you don't think they can change. That's a fixed mindset. (This kind of parenting spoils toddlers.)
