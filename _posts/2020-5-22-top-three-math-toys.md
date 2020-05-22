@@ -4,9 +4,7 @@ title: Top 3 Math Toys
 date: 2020-05-21
 ---
 
-I have a lot of educational toys in my house. I have this problem: I can't just buy toys for my kids. I have to buy them something that will actually help them in their lives*. So when I buy things I like to buy teacher things.  My three school age children have skipped a grade, one of them has skipped two grades in math, and another got the highest score in her grade at her school who competed in the National Noetic Learning Math competition (in the grade that she skipped into.)
-
-I reserve the right to delete that last sentence at any time. 
+I have a lot of educational toys in my house. I have this problem: I can't just buy toys for my kids. I have to buy them something that will actually help them in their lives*. So when I buy things I like to buy teacher things. 
 
 Here are the three toys that I think have made the biggest impact on my children's math understanding. I don't have affiliate links set up so buy whatever you want. 
 
