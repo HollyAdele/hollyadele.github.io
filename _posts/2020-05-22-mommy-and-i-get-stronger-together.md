@@ -13,8 +13,9 @@ Here's a fun way to play with your children in a way that
 1. They like
 2. Makes them like you
 3. Helps them learn language
-4. Makes you stronger
-5. Burns some calories 
+4. Practices turn taking
+5. Makes you stronger
+6. Burns some calories 
 
 These are from my library's Mother Goose on the Loose storytimes. Nursery rhymes + actions + social interation = measurably improved language skills in babies. 
 
