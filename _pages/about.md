@@ -9,4 +9,4 @@ in elementary education, and now I teach five students, my Heidi, my Peter, my A
 
 I'm married to a web developer and we live in the Mid-West.
 
-I love to eat, read, and sleep. Back to basics, right?
+When I have a few spare moments, I love to study.
