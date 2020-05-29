@@ -10,7 +10,7 @@ But one night I sat down and conquered the beast, and I am so happy I did. Now m
 
 These are the states where this choice is available: 
 
-![map of deregulated states](_post-images/deregulated-states.png)
+![map of deregulated states](/post-images/deregulated-states.png)
 
 If your state is "deregulated" you can choose where your electricity comes from. (You can't be certain where your specific electrons are from, but you know that your household's amount of electricity was put into the grid from where you wanted it. Once it's in the grid everyone shares the electricity and it's fine.)
 
