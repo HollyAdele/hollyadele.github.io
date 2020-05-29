@@ -4,7 +4,11 @@ title: Homeschool Summer
 date: 2020-05-15
 ---
 
-We have nowhere to go this summer, and it feels bad to have nowhere to go and nothing to do, so we are going to learn and grow and make. ...We are going to homeschool through the summer. I sort of think we'll be distance learning next year too, and I think I'd rather homeschool for real instead of do another year of distance learning. So we're practicing during the summer, to see if the kids will listen to me, if I can take care of all five kids and homeschool, and to see if I even like it. I've always loved the ***idea*** of homeschooling, and a pandemic is an excellent time to try it out. The kids are a little cheesed about losing their summer (that was not going to be quite the same anyway) but I think they believe me that they want good things to do.  And in the end I'm the one who controls whether they get treats or screen time. They'll be happy later in life, right?
+We have nowhere to go this summer, and it feels bad to have nowhere to go and nothing to do, so we are going to learn and grow and make. ...We are going to homeschool through the summer. I've always wanted to homeschool, but I can't do it while the kids could go to such a great school and have recess and lunch and specials and friends. 
+
+I don't think school next year will look like that, so maybe it's a good time to get my homeschool fix. Thus, we're practicing during the summer, to see if the kids will listen to me, if I can take care of all five kids and homeschool, and to see if I even like it. 
+
+The kids are a little cheesed about losing their summer (that was not going to be quite the same anyway) but I think they believe me that they want good things to do.  And in the end I'm the one who controls whether they get treats or screen time. They'll be happy later in life, right?
 
 ## Overarching theme of learning: Moon Base 12
 
