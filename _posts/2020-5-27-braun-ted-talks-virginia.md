@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Braun Ted Talks from Virginia and Provo
+title: Braun TED Talks from Virginia and Provo
 date: 2020-05-27
 ---
 
