@@ -6,7 +6,7 @@ date: 2020-05-22
 
 I had a video call with some family members, and I asked them to teach me something instead of buying me presents. The result was wonderful. When each person thinks through their knowledge and expertise, and decides on what would be most meaningful to share- you have a lot of meaningful topics. 
 
-I stayed up so late writing it all down. Have we already talked about my neck? I injured my neck and thus am taking corticosteroids to help it heal faster, but they give me insomnia. So I finished writing this stuff at about the time the birds woke up. 
+I stayed up so late writing some notes. Have we already talked about my neck? I injured my neck and thus am taking corticosteroids to help it heal faster, but they give me insomnia. So I finished writing this stuff at about the time the birds woke up. 
 
 ### Thrifting, by Natalie
 If you see something new and you like it, you can always find it cheaper, with time. Put items you want on a thrift store shopping list on your phone and check regularly for those items. 
@@ -52,7 +52,7 @@ Oh, and toddlers can manage the book section on hoopla by themselves.
 
 ### Nikki: Using neuroscience to help you change. 
 
-Triggered: when a you have a negative emotional reaction and your whole day is shot.  You have 10-15 seconds between event and reaction, and if you don't avoid being triggered it will take 5-6 hours to recover. During normal brain function, you can process 8-12 pieces of information. When you are triggered, you can only process 1.  
+Triggered: when a you have a negative emotional reaction and your whole day is shot.  You have 10-15 seconds between event and reaction, and if you don't avoid being triggered it will take 5-6 hours to recover. During normal brain function, you can process 8-12 pieces of information. When you are triggered, you can only process one.  
 
 Reflect on the day, identify your triggers. Recognize those situations and go a new way. Practice alternate reactions, like box breathing. In for 3 seconds, hold for 3, out 3, hold 3.
 
