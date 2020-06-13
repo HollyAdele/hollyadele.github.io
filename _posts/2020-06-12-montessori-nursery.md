@@ -6,9 +6,11 @@ date: 2020-06-12
 
 Our nursery's toys needed updating, so I took on the project because I love early childhood education. I asked myself, how would [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) teach the gospel in her classroom? 
 
+First, I went through the closets and cleaned out broken, old, weird things. I worked with the stake to get the locks fixed. Then I donated toys that were too large to fit in cupboards, because if nursery ever comes back, four wards of children should not be playing with the same toys. That's between fifty and a hundred children! I feel bad for the parents of the last ward to use them. Moving on from the germ rant. 
+
 ~~Young children~~ All children learn better through their fingers than their ears. Maybe they can learn the gospel through their fingers too?  These are the items I settled on to try to get that to happen. 
 
-I went through the nursery lessons to see what toys could help teach the content, which is why I purchased this toy. Lesson 10 is "I Can Take Care of My Body." My children were obsessed with the potty when it came, so I'm a little worried it will cause fights in nursery. (The baby triggers a button on the seat that puts a little yellow dot in the potty. When you close the lid it resets it to white.) If I were in nursery, I'd get out the set and play with it myself and give turns to children. "Erika, would you like to help the baby go potty? Yay! Okay, Bethany's turn! Bethany, baby needs to wash his hands."
+I went through the nursery lesson manual to see what toys could help teach the content, which is why I purchased this toy. Lesson 10 is "I Can Take Care of My Body." My children were obsessed with the potty when it came, so I'm a little worried it will cause fights in nursery. (The baby triggers a button on the seat that puts a little yellow dot in the potty. When you close the lid it resets it to white.) If I were in nursery, I'd get out the set and play with it myself and give turns to children. "Erika, would you like to help the baby go potty? Yay! Okay, Bethany's turn! Bethany, baby needs to wash his hands."
 
 [![Fisher Price Wash and go](/post-images/wash-and-go.png)](https://www.amazon.com/gp/product/B07X1V7P3V/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
@@ -16,11 +18,11 @@ My children retell the Christmas Story with these toys, so I got a set for the N
 
 [![Fisher Price Christmas Story](/post-images/little-people-christmas.png)](https://www.amazon.com/gp/product/B000067R86/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
-My kids didn't play with the Noah's Ark as much as it deserved, so I donated it to the nursery, since I was going to buy one anyway. I hope nursery leaders use it to tell the story to the children. If not, children like animals and animals are God's creations so there's that.
+Fisher Price also has  Noah's Ark set.  We had one, but my kids didn't play with it as much as it deserved, so I donated it to the nursery, since I was going to buy one anyway. I hope nursery leaders use it to tell the story to the children. If not, children like animals and animals are God's creations so there's that.
 
 [![Fisher Price Noah's Ark](/post-images/little-people-ark.png)](https://www.amazon.com/Fisher-Price-Little-People-Noahs-Ark/dp/B00CQHYXOO/ref=sr_1_2?crid=1CEEBS64QDJQS&dchild=1&keywords=fisher+price+noahs+ark+playset&qid=1592013396&s=toys-and-games&sprefix=fisher+price+no%2Ctoys-and-games%2C158&sr=1-2)
 
-The last time I was in nursery, it was really hard to gather all the children for singing time. I'd gather some, and then turn my attention to get more, and the first group would lose interest. My solution? Buy stuff!  
+The last time I was in nursery, it was really hard to gather all the children for singing time. I'd gather some, and then turn my attention to get more, and the first group would lose interest. It was like herding cats. My solution? Buy stuff!  
 
 My library's storytime uses these during some songs. You dance around with them while singing and it's fun. 
 
@@ -45,6 +47,7 @@ One thing Maria Montessori did was hang pictures at the child's height, not the 
 I bought a cool picture frame that holds six pictures and bends in many directions. I'm hoping the interesting frame will bring attention to the images of Jesus I cut out of my Come Follow Me manual. And I hope they don't pinch their fingers in the frame. 
 
 The frame might be too fragile for a large group of toddlers. Montessori classrooms give toddlers breakable dishes (that were purchased at a thrift store) because toddlers are capable of learning to be careful with things. It takes the teacher being really careful with them, and reminding them often, and, yes, breaking the dishes. I'm filled with worry over this one, because I didn't purchase it at a thrift store. If nursery is too crazy for an adult to be on full time worry-over-frame duty, I'll unreimburse the purchase and bring it home. 
+   
 [![triple picture frame attached by two way hinges](/post-images/savior-picture-frame.png)](https://www.amazon.com/gp/product/B07YFLGPQG/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
 A ward member was giving away a binder full of gospel art kit images, so I kept the most simple and important pictures and put that on a low shelf for children's use. I would have purchased the Gospel Art Book from the distribution center if I had not found a copy. And if the binder format is troublesome it still is an option. The idea is to set it on the floor for children to look at, or for a leader to pick it up and thumb through it with a few children.
