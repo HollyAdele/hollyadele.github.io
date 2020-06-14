@@ -4,21 +4,26 @@ title: Montessori Nursery
 date: 2020-06-12
 ---
 
+I am a member of the Church of Jesus Christ of Latter-day Saints. On Sundays, we meet together for worship, and then we meet in groups for more focused lessons. Children who are between eighteen months and three years old meet together in the Nursery for playtime, snacktime, singing time, lesson time, and then bubble time while they wait for their parents. 
+
 Our nursery's toys needed updating, so I took on the project because I love early childhood education. I asked myself, how would [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) teach the gospel in her classroom? 
 
 First, I went through the closets and cleaned out broken, old, weird things. I worked with the stake to get the locks fixed. Then I donated toys that were too large to fit in cupboards, because if nursery ever comes back, four wards of children should not be playing with the same toys. That's between fifty and a hundred children! I feel bad for the parents of the last ward to use them. Moving on from the germ rant. 
 
-~~Young children~~ All children learn better through their fingers than their ears. Maybe they can learn the gospel through their fingers too?  These are the items I settled on to try to get that to happen. 
+~~Young children~~ All children learn better through their fingers than their ears. Maybe they can learn the gospel through their fingers too?  These are the items I settled on to try to get that to happen. Each item's stock image is a link for purchase. I don't have affiliate links set up so buy whatever you want. 
 
 I went through the nursery lesson manual to see what toys could help teach the content, which is why I purchased this toy. Lesson 10 is "I Can Take Care of My Body." My children were obsessed with the potty when it came, so I'm a little worried it will cause fights in nursery. (The baby triggers a button on the seat that puts a little yellow dot in the potty. When you close the lid it resets it to white.) If I were in nursery, I'd get out the set and play with it myself and give turns to children. "Erika, would you like to help the baby go potty? Yay! Okay, Bethany's turn! Bethany, baby needs to wash his hands."
 
 [![Fisher Price Wash and go](/post-images/wash-and-go.png)](https://www.amazon.com/gp/product/B07X1V7P3V/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
+![erika being happy that the baby went potty](/post-images/yay-potty.jpg)
+![bethany playing with potty in the box it's carried in](/post-images/potty-in-box.jpg)
+
 My children retell the Christmas Story with these toys, so I got a set for the Nursery. The new one has a girl angel, so I switched it out with mine to be more scriptural. It has wings, but there's nothing I can do about that. The new stable plays music and lights up, which I thought would be annoying for nursery leaders so I switched it with mine too. Now I get to deal with all the fights over the light-up toy. 
 
 [![Fisher Price Christmas Story](/post-images/little-people-christmas.png)](https://www.amazon.com/gp/product/B000067R86/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
-Fisher Price also has  Noah's Ark set.  We had one, but my kids didn't play with it as much as it deserved, so I donated it to the nursery, since I was going to buy one anyway. I hope nursery leaders use it to tell the story to the children. If not, children like animals and animals are God's creations so there's that.
+Fisher Price also has  Noah's Ark set.  We had one, but my kids didn't play with it as much as it deserved, so I donated it to the nursery, since I was going to buy one for them anyway. I hope nursery leaders use it to tell the story to the children. If not, children like animals and animals are God's creations so there's that.
 
 [![Fisher Price Noah's Ark](/post-images/little-people-ark.png)](https://www.amazon.com/Fisher-Price-Little-People-Noahs-Ark/dp/B00CQHYXOO/ref=sr_1_2?crid=1CEEBS64QDJQS&dchild=1&keywords=fisher+price+noahs+ark+playset&qid=1592013396&s=toys-and-games&sprefix=fisher+price+no%2Ctoys-and-games%2C158&sr=1-2)
 
@@ -42,6 +47,10 @@ I think that one purpose of nursery is to teach language, gospel nouns in partic
 
 [![tiny treasure box](/post-images/tiny-treasure-box.png)](https://www.amazon.com/gp/product/B005UFG55Y/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
+![treasure box with pictures of prophets](/post-images/prophet-treasures.jpg)
+
+![toddler holding a picture of Elder Bednar](/post-images/bethany-bednar.jpg)
+
 One thing Maria Montessori did was hang pictures at the child's height, not the adults height, for them to enjoy. She didn't plaster the walls with educational or motivational posters; she kept the walls very simple and calm.
 
 I bought a cool picture frame that holds six pictures and bends in many directions. I'm hoping the interesting frame will bring attention to the images of Jesus I cut out of my Come Follow Me manual. And I hope they don't pinch their fingers in the frame. 
@@ -50,9 +59,14 @@ The frame might be too fragile for a large group of toddlers. Montessori classro
    
 [![triple picture frame attached by two way hinges](/post-images/savior-picture-frame.png)](https://www.amazon.com/gp/product/B07YFLGPQG/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
-A ward member was giving away a binder full of gospel art kit images, so I kept the most simple and important pictures and put that on a low shelf for children's use. I would have purchased the Gospel Art Book from the distribution center if I had not found a copy. And if the binder format is troublesome it still is an option. The idea is to set it on the floor for children to look at, or for a leader to pick it up and thumb through it with a few children.
+![toddler looking at pictures of Jesus](/post-images/erika-frame.jpg)
+
+A ward member was giving away a binder full of gospel art kit images, so I kept the most simple and important pictures and put that on a low shelf for children's use. I would have purchased the Gospel Art Book from the distribution center if I had not found a copy. And if the binder format is troublesome it still is an option.
 
 [![spiral bound book of churchy pictures](/post-images/gospel-art-book.png)](https://store.churchofjesuschrist.org/usa/en/gospel-art-book)
+
+Children will not naturally pick up the binder.
+![spiral bound book of churchy pictures on the floor](/post-images/lonely-book.jpg) so adults can look at it with children. Especially if a child needs a distraction.
 
 I really wanted something like this to teach about emotions, but I didn't find a good option. 
 
