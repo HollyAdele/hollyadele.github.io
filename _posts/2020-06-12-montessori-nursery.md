@@ -16,8 +16,8 @@ I went through the nursery lesson manual to see what toys could help teach the c
 
 [![Fisher Price Wash and go](/post-images/wash-and-go.png)](https://www.amazon.com/gp/product/B07X1V7P3V/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
-![erika being happy that the baby went potty](/post-images/yay-potty.jpg)
-![bethany playing with potty in the box it's carried in](/post-images/potty-in-box.jpg)
+![erika being happy that the baby went potty](/post-images/yay-potty.JPG)
+![bethany playing with potty in the box it's carried in](/post-images/potty-in-box.JPG)
 
 My children retell the Christmas Story with these toys, so I got a set for the Nursery. The new one has a girl angel, so I switched it out with mine to be more scriptural. It has wings, but there's nothing I can do about that. The new stable plays music and lights up, which I thought would be annoying for nursery leaders so I switched it with mine too. Now I get to deal with all the fights over the light-up toy. 
 
@@ -47,9 +47,9 @@ I think that one purpose of nursery is to teach language, gospel nouns in partic
 
 [![tiny treasure box](/post-images/tiny-treasure-box.png)](https://www.amazon.com/gp/product/B005UFG55Y/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
-![treasure box with pictures of prophets](/post-images/prophet-treasures.jpg)
+![treasure box with pictures of prophets](/post-images/prophet-treasures.JPG)
 
-![toddler holding a picture of Elder Bednar](/post-images/bethany-bednar.jpg)
+![toddler holding a picture of Elder Bednar](/post-images/bethany-bednar.JPG)
 
 One thing Maria Montessori did was hang pictures at the child's height, not the adults height, for them to enjoy. She didn't plaster the walls with educational or motivational posters; she kept the walls very simple and calm.
 
@@ -59,7 +59,7 @@ The frame might be too fragile for a large group of toddlers. Montessori classro
    
 [![triple picture frame attached by two way hinges](/post-images/savior-picture-frame.png)](https://www.amazon.com/gp/product/B07YFLGPQG/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
-![toddler looking at pictures of Jesus](/post-images/erika-frame.jpg)
+![toddler looking at pictures of Jesus](/post-images/erika-frame.JPG)
 
 A ward member was giving away a binder full of gospel art kit images, so I kept the most simple and important pictures and put that on a low shelf for children's use. I would have purchased the Gospel Art Book from the distribution center if I had not found a copy. And if the binder format is troublesome it still is an option.
 
@@ -85,4 +85,4 @@ These are six of the most common negative emotions toddlers face, and when a chi
 
 I can't* wait for nursery to start up again! 
 
-*I kind of can.
+*I kind of can, until I know that nursery won't make me die.
