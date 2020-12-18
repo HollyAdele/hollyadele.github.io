@@ -19,9 +19,9 @@ I have a secret. I feel large amounts of guilt about saying this.
 
 ![scholastic flyers](/post-images/power-user-4.png)
 
-If you're going to be wading through lists and lists of the best books ever, you'll probably want lots of books. This is my current account. I have 84 items out, and we have checked out 2593 books in the last three years. 
+If you're going to be wading through lists and lists of the best books ever, you'll probably want lots of books. This is my current account. 
 
-![account limit](/post-images/account-limit.png)
+![account limit](/post-images/account-numbers.png)
 
 Sometimes this is too many books. When that happens, I declare a Reading Emergency and everyone has to go home and read all the books so we can take some back. 
 
