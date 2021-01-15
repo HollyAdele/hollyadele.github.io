@@ -126,6 +126,9 @@ I don't know if it's just my children, but they frequently stand on their chairs
 
 ### "Is your tummy full and happy?"
 
+### "Winner cleans up"
+When we play a board game, we follow this rule. It's therapeutic, to lose and then get to just walk away. 
+
 ### "Guess and I'll tell you." 
 This is my go-to for when kids ask me how to spell things, or the answer to a non-homework math problem.  I think it's a worthwhile exercise for them to guess, and then hear the correct answer. I respond with the same tone whether they get it right or not. 
 
