@@ -82,6 +82,13 @@ Or when they don't do something we do want them to do.
 ### "We feel annoyed when something is too loud or repetitive."
 These short, kid-friendly explanations are so useful in helping kids understand their big feelings. And my big feelings too. 
 
+### Page of our book
+DNA is a really useful concept for children to have early. You build a little at a time. 
+
+We tell the kids that we have a book of instructions on how to make our body. (Later, we say, each cell has a copy.) For each body part, you have two pages. You use one of them and don't use the other. You got one page from each parent. You might have gotten the page that they use, and so the child is like the parent, or you might have gotten one that they aren't using, that they got from their parent. 
+
+This basic understanding is useful when commiserating about certain family traits, or explaining evolution. 
+
 ### "You have money."
 Heidi and Peter get two dollars a week, Austin gets one dollar a week, and Erika and Bethany don't get an allowance. This is related to how many chores they do Saturday morning. Austin is probably coming up on a raise, because his chores have really increased in quality. Don't tell him, though, please save me a few dollars. 
 
@@ -126,8 +133,27 @@ I don't know if it's just my children, but they frequently stand on their chairs
 
 ### "Is your tummy full and happy?"
 
+### "Five minute warning"
+Giving kids a five minute warning before leaving the playground or starting
+a meal is a good idea. And when you say five minute warning, set a timer or watch your phone. It's an opportunity to calibrate their internal clocks, to help them learn how much five minutes is. And every time you let them go longer than that five minutes, you lose credibility. When you do finally feel like enforcing what you have said, they are sad because they truly don't understand why they can't today, when yesterday they could. Being lenient today brings sadness tomorrow. 
+
 ### "Winner cleans up"
 When we play a board game, we follow this rule. It's therapeutic, to lose and then get to just walk away. 
+
+### "We don't want to show too much of your beautiful body to too many people."
+The reason children shouldn't expose themselves in public are nuanced, and hard to explain. This is what I've come up with. 
+
+I don't say, "Gross, put that thing away!" or "Don't let anyone see your bottom!" because I don't want to create difficulties later on. This addresses body safety while not sacrificing body image. 
+
+### "Wait for your wife."
+When a child is playing with their anus, or penis, or labia, I try not to freak out about germs. I tell them to wait for their husband, or wife. I don't want to say, "Don't touch that!" or "Gross!" or "Do that later when you're alone." I'm saying it's not okay now, but will be okay later when they are married. 
+
+It has been taught to me that it's important to teach children the anatomical names of their private parts. "Private Parts" is not good enough. I usually take this opportunity when I am changing their siblings' diaper or they are in the bath. I pretend I am not uncomfortable. It's a lot easier when they are younger. 
+
+### "You can hold hands when you like someone, you can kiss when you have a commitment with someone, and you can be intimate when you are married."
+"Be intimate with" is my euphemism for sex when talking to my children. I like it. The euphemism, I mean.
+
+Children who know their parents' values regarding pre-marital sex are more likely to adhere to them. I like this framework of what sort of touching is appropriate when. I share it with children when they are young. Like three. I like to be the first one to create the framework in their minds. They can judge everything they hear at school by my values, instead of having to impose my views for the first time on a teenager whose crush likes her back. 
 
 ### "Guess and I'll tell you." 
 This is my go-to for when kids ask me how to spell things, or the answer to a non-homework math problem.  I think it's a worthwhile exercise for them to guess, and then hear the correct answer. I respond with the same tone whether they get it right or not. 
@@ -160,27 +186,5 @@ I have a lot of worriers. I also have no idea where they got that trait either.
 I like this phrase because it introduces balance. It acknowledges that a little worry is good, but it gently teaches them that too much worry is bad. 
 
 It's like a river. Floating down the center is very pleasant. But if you get too close to each bank, you'll get in trouble. One side is chaos and the other is rigidity. Both are dangerous. 
-
-### Page of our book
-DNA is a really useful concept for children to have early. You build a little at a time. 
-
-We tell the kids that we have a book of instructions on how to make our body. (Later, we say, each cell has a copy.) For each body part, you have two pages. You use one of them and don't use the other. You got one page from each parent. You might have gotten the page that they use, and so the child is like the parent, or you might have gotten one that they aren't using, that they got from their parent. 
-
-This basic understanding is useful when commiserating about certain family traits, or explaining evolution. 
-
-### "We don't want to show too much of your beautiful body to too many people."
-The reason children shouldn't expose themselves in public are nuanced, and hard to explain. This is what I've come up with. 
-
-I don't say, "Gross, put that thing away!" or "Don't let anyone see your bottom!" because I don't want to create difficulties later on. This addresses body safety while not sacrificing body image. 
-
-### "Wait for your wife."
-When a child is playing with their anus, or penis, or labia, I try not to freak out about germs. I tell them to wait for their husband, or wife. I don't want to say, "Don't touch that!" or "Gross!" or "Do that later when you're alone." I'm saying it's not okay now, but will be okay later when they are married. 
-
-It has been taught to me that it's important to teach children the anatomical names of their private parts. "Private Parts" is not good enough. I usually take this opportunity when I am changing their siblings' diaper or they are in the bath. I pretend I am not uncomfortable. It's a lot easier when they are younger. 
-
-### "You can hold hands when you like someone, you can kiss when you have a commitment with someone, and you can be intimate when you are married."
-"Be intimate with" is my euphemism for sex when talking to my children. I like it. The euphemism, I mean.
-
-Children who know their parents' values regarding pre-marital sex are more likely to adhere to them. I like this framework of what sort of touching is appropriate when. I share it with children when they are young. Like three. I like to be the first one to create the framework in their minds. They can judge everything they hear at school by my values, instead of having to impose my views for the first time on a teenager whose crush likes her back. 
 
 ### "I have spoken."
