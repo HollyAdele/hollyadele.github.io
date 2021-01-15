@@ -30,6 +30,11 @@ In my education to become a teacher, I learned that you can only control your be
 
 For older children, you can't carry them, so before you issue a command, know what action YOU will take if they do not carry out the command.
 
+### "Do you want to sleep on a pillow tonight? Then go put your head on it."
+After I have used up my fun, silly, sweet ways to get children to lay down, I say this. If they still linger, I say that I will take their pillow in five seconds. And then count down from five, and take the pillow. They get it back the next morning. I think it is possible to fall asleep without a pillow, although undesirable. Is it negotiable that they go to bed? No. 
+
+This only works if you never give it back because they cry, and if you actually take it when you say you will. If you aren't going to be consistent, they just chalk it up to one more reason why they shouldn't obey you. 
+
 ### "I'm sorry, I don't want to hurt you, will you forgive me?"
 I love this one. It works on everyone. You say it when someone's mad. You say it whether you are to blame or not. It doesn't admit guilt, and it doesn't accuse of guilt. I like it better than, "I didn't mean to!" because, face it, you did mean to at the time. "It was an accident" is just as bad. What does that even mean? 
 
@@ -39,9 +44,9 @@ But in this moment when you say, "I don't want to hurt you," you don't feel the 
 
 We use this weekly, sometimes daily. I use it when I plunk kids too roughly in time out, or when I yell unreasonably loudly. I trained the kids to say it as soon as they can talk. When they say it sincerely it melts the other sibling's heart and they hug and play together. I say, "Who's going to be the hero and say it first?"
 
-This works on me. Bryan says it often. When I'm riled up for a fight, and he says he doesn't want to hurt me, my anger just deflates. I was angry because I thought I was getting attacked. But if he doesn't want to hurt me, then we can speak reasonably together. I don't need to defend against anything. It's odd that being defensive is an attack on the other person.
+This works on me. Bryan says it often. When I'm riled up for a fight, and he says he doesn't want to hurt me, my anger just deflates. I was angry because I thought I was getting attacked. But if he doesn't want to hurt me, then we can speak reasonably together. I don't need to defend against anything. It's odd that being defensive is an attack on the other person, and will provoke the very thing you were trying to avoid.
 
-This phrase quickly disarms strangers as well. 
+This phrase quickly disarms angry strangers as well. 
 
 ### Kids' Court
 A session of Kids' Court is convened when there is an injury or almost an injury. I try to use as much legal jargon as I can, just to slip that knowledge to them on the sly. 
@@ -99,6 +104,28 @@ We do check if each child did each job. If they missed a spot, I'll either do it
 
 Our kids really take this phrase to heart when it comes to sweeping the kitchen floor. I'm a little worried about that one still.
 
+### "It's time to do your favorite job!"
+We taught our toddlers that clearing their dishes after a meal is their favorite job, and that it's an insult for someone to do it for you. I made up a song about doing it for them, and I do a really annoying happy dance. We all pretend to like to put away our dishes. We pretend to like to put away their dishes. 
+
+They carry their plate, dump it in the trash can, and put it in the correct section of the dishwasher. They get the step stool, dump out their milk in the sink, and put their cup in it's place in the dishwasher. They put their own silverware in there too. 
+
+When we say, "I'm going to do your favorite job!" my toddlers scream and run to do it. This only works if you actually put away their dishes when you say you will. 
+
+Let's talk about monkeys. Some scientists did an experiment on monkeys. If they pressed a button, they got a treat. They did this until the monkeys learned it really well. Then, all of a sudden, the button stopped producing treats. They counted how many times the monkeys continued to press the button. It was six or eight. Then, they made it so the button would only sometimes deliver a treat. And then after a while they turned off all the treats. So the monkeys were used to intermittent rewards, and then suddenly rewards disappeared. Guess how many times the monkeys pressed the button after intermittent rewards? A hundred times. 
+
+So if you want kids to keep pressing your buttons, only sometimes give them what they want. 
+
+### "I will ask politely one more time."
+I say this with my last shred of patience when I have asked a child to do a job and they have ignored me. If they continue to ignore me, I will mete punishment (right now it's moving clips down.)
+
+### "Confirm that you heard me."
+If a kid is upstairs or on devices, and I say something important, I will require them to say "I heard you." This puts them on the hook. It removes the excuse, "Sorry, I didn't hear you."
+
+### "Bum or knees"
+I don't know if it's just my children, but they frequently stand on their chairs at meals. Maybe my table is tall, maybe my children are short, but it happens often. It's pretty quick to say, and doesn't need to derail the conversation. 
+
+### "Is your tummy full and happy?"
+
 ### "Guess and I'll tell you." 
 This is my go-to for when kids ask me how to spell things, or the answer to a non-homework math problem.  I think it's a worthwhile exercise for them to guess, and then hear the correct answer. I respond with the same tone whether they get it right or not. 
 
@@ -108,6 +135,14 @@ I love this one for toddlers. When they are buttoning or zipping, I have them tr
 Sometimes they give three half-hearted attempts, sometimes they buckle down and do it themselves on the second try. They get so happy when that happens, and it happens often. 
 
 Child Psychologist Erikson said that toddlers are working on Autonomy vs. Shame and Doubt. Self-confidence comes from thinking you can do things. Fake, dangerous, fixed mindsets of self-confidence come from parents telling children they are smart. Real confidence in self is built on many experiences when they, in fact, did things for themselves.  
+
+### "Wow! You tried so hard!"
+I praise my children more when they struggle, and less when they are successful. Children repeat behaviors they are rewarded for, and I want them to try hard. I don't want them to think it's embarrassing to have to try. If children are rewarded for being smart (looking smart) then they will try all their lives to look smart. Can you picture a lifetime of trying to look smart?  You don't take challenges, because whenever you do something difficult you look dumb at the beginning. You lie and you cheat. You give up quickly. But can you also imagine a lifetime of striving?
+
+### "Brauns Keep Trying"
+I want it to be part of my children's identity that they keep trying. 
+
+This is not, "Brauns never give up" because sometimes it's a good idea to give up. But after you've rested, tweaked your plan, gathered more resources or courage, you can try again. 
 
 ### The best way to find something is to clean up. And if you still don't find it, at least you have a clean house."
 When you're trying to find something, you have to pick up everything to look underneath it. It's going to be only 10% more effort to put it where it actually goes. And then you won't forget you already looked under it, and pick it up again to check under it a second or third time. 
@@ -131,7 +166,9 @@ We tell the kids that we have a book of instructions on how to make our body. (L
 This basic understanding is useful when commiserating about certain family traits, or explaining evolution. 
 
 ### "We don't want to show too much of your beautiful body to too many people."
-The reason children shouldn't expose themselves in public are nuanced. I don't say, "Gross, put that thing away!" or "Don't let anyone see your bottom!" because I don't want to create difficulties later on. This addresses body safety while not sacrificing body image. 
+The reason children shouldn't expose themselves in public are nuanced, and hard to explain. This is what I've come up with. 
+
+I don't say, "Gross, put that thing away!" or "Don't let anyone see your bottom!" because I don't want to create difficulties later on. This addresses body safety while not sacrificing body image. 
 
 ### "Wait for your wife."
 When a child is playing with their anus, or penis, or labia, I try not to freak out about germs. I tell them to wait for their husband, or wife. I don't want to say, "Don't touch that!" or "Gross!" or "Do that later when you're alone." I'm saying it's not okay now, but will be okay later when they are married. 
@@ -142,3 +179,5 @@ It has been taught to me that it's important to teach children the anatomical na
 "Be intimate with" is my euphemism for sex when talking to my children. I like it. The euphemism, I mean.
 
 Children who know their parents' values regarding pre-marital sex are more likely to adhere to them. I like this framework of what sort of touching is appropriate when. I share it with children when they are young. Like three. I like to be the first one to create the framework in their minds. They can judge everything they hear at school by my values, instead of having to impose my views for the first time on a teenager whose crush likes her back. 
+
+### "I have spoken."
