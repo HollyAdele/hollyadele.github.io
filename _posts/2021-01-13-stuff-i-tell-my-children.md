@@ -14,6 +14,8 @@ But it is also great in the long term development of children for them to know t
 
 "Because I said so" just feels so good to retort back in their face. This part is automatic, and by habit it leads to the second part. "The reason that I said so" takes the argument out of the emotional fighting brain and into the thinking brain. And teaches them how the world works. And shows you are not a capricious totalitarian. Unless you have a bad reason, then you really are a totalitarian. 
 
+### "If you're so big that you don't need to listen to me, you are big enough to buy your own ____"
+
 ### "Obey first, ask questions second." 
 There are some situations which require immediate obedience, like "don't touch that it's 425 degrees" or "get out of the road a maniac is driving toward us." They should be in the habit of quick obedience. I don't say, "Obey first, ask questions later" because that sounds like I wouldn't want them to ask or that the reason doesn't matter. I want to emphasize that I have a reason I will be happy to share with them once the imminent danger has passed. 
 
@@ -77,6 +79,8 @@ Or when they don't do something we do want them to do.
 
 ### "We feel disappointed when our expectations don't meet reality."
 
+### "We feel afraid when we think we are in danger."
+
 ### "We feel discouraged when we don't think we have the resources to do something."
 
 ### "We feel annoyed when something is too loud or repetitive."
@@ -133,6 +137,25 @@ I don't know if it's just my children, but they frequently stand on their chairs
 
 ### "Is your tummy full and happy?"
 
+### "Only food and family (and friends) at the table."
+We don't like it when kids bring toys to the table because they play with the toy instead of eating or they get the toy messy. Kids are allowed to come to the table after they have put down their toy. They don't have to put the toy down!  If they don't need to eat, that's fine. This only works if your child knows you won't give them food outside designated mealtimes. If they know that they'll get a snack if they ask four times in increasingly whiny tones, they will be okay with missing the healthy meal.  
+
+Some things can become a toy, like chopsticks, and we take those too. 
+
+### "No toys on the toilet. 
+I have reached into a used toilet bowl to retrieve a tiny doggy and really, once is enough. 
+
+### "No kids on the table."
+I think kids on the table and counters is probably mostly fine, maybe, but I would prefer to not have feet on the table or heads too far from the tile floor. So I don't let kids be on the table. The line is no knees or bums. 
+
+This rule doesn't mean that teenagers can never sit on the counter, or that parents can't be on the table to fix the light or whatever, but kids shouldn't do those things. Freedom should go from less to more. They should start out life with very few freedoms which gradually increase until they are completely free. If they start with the whole world as their oyster, and then rules are placed on them as teenagers, they will feel sad because they are losing freedom. 
+
+### "Not food"
+When a child is chewing or sucking on a toy, I make them spit it out and the quickest thing to say is "not food." I think toddlers will understand that more than "don't put that in your mouth." If they don't know the word don't, it will be confusing.
+
+### "Be nice to your future self. Give yourself presents in the future, and not punches."
+Some actions we take today will give a present to our future self, like brushing teeth, or studying for a test. Some give punches to our future self, like leaving clean clothes in the laundry hamper or staying up late. There's a giant conveyor belt with items coming towards us, and our past self placed every one. Live your life so that you always prioritize your future self. Opt for a little pain in the present for a large reward in the future. Don't borrow from your future self, or your life will get worse and worse and you'll have fewer and fewer resources to deal with it. 
+
 ### "Five minute warning"
 Giving kids a five minute warning before leaving the playground or starting
 a meal is a good idea. And when you say five minute warning, set a timer or watch your phone. It's an opportunity to calibrate their internal clocks, to help them learn how much five minutes is. And every time you let them go longer than that five minutes, you lose credibility. When you do finally feel like enforcing what you have said, they are sad because they truly don't understand why they can't today, when yesterday they could. Being lenient today brings sadness tomorrow. 
@@ -187,4 +210,5 @@ I like this phrase because it introduces balance. It acknowledges that a little 
 
 It's like a river. Floating down the center is very pleasant. But if you get too close to each bank, you'll get in trouble. One side is chaos and the other is rigidity. Both are dangerous. 
 
-### "I have spoken."
+### "I have spoken." 
+
