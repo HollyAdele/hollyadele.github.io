@@ -37,6 +37,15 @@ After I have used up my fun, silly, sweet ways to get children to lay down, I sa
 
 This only works if you never give it back because they cry, and if you actually take it when you say you will. If you aren't going to be consistent, they just chalk it up to one more reason why they shouldn't obey you. 
 
+### "Better!" 
+When you need to wipe a child's face, just touch it with the cloth and feign happiness and say, "better!" They feel happy you're making progress and they want to look better, and they'll submit if they think it's working. Before I learned this trick, I would wipe their face, and say, "wait, no, there's more, your face is still a disaster, okay, let's keep wiping, no it's still there-" and what they hear is "We will be doing this forever and it will never work and I'll never look presentable so let's just quit now."
+
+### "I'll let you try again politely."
+When they demand something in a rude tone. Preserves your dignity in a calm way. 
+
+### "What do you think?"
+Sometimes kids ask a question and they want you to say a certain thing. It's like they're quizzing me, like I admit I quiz them sometimes. I don't like to use my mental energy on guessing what's in their heads, becuase it could really be anything. So I have them tell me what they want me to say. I'll humor them when I'm in all but the saltiest of moods. I love to hear their little voices saying the right answer to my quizzes, so I'll let them hear my voice saying the right answer to their quizzes. 
+
 ### "I'm sorry, I don't want to hurt you, will you forgive me?"
 I love this one. It works on everyone. You say it when someone's mad. You say it whether you are to blame or not. It doesn't admit guilt, and it doesn't accuse of guilt. I like it better than, "I didn't mean to!" because, face it, you did mean to at the time. "It was an accident" is just as bad. What does that even mean? 
 
