@@ -187,6 +187,16 @@ It has been taught to me that it's important to teach children the anatomical na
 
 Children who know their parents' values regarding pre-marital sex are more likely to adhere to them. I like this framework of what sort of touching is appropriate when. I share it with children when they are young. Like three. I like to be the first one to create the framework in their minds. They can judge everything they hear at school by my values, instead of having to impose my views for the first time on a teenager whose crush likes her back. 
 
+### "You are important, going upstairs is important, going upstairs first is not important."
+
+Sometimes kids are looking for confirmation of their worth or worthlessness by ways people treat them. Like all of us. If they are served last at dinner, they wonder if they are loved least. 
+
+### "If you want to see the color pink, look at your sister's plate."
+
+The child has a plate. It is functional. But they are upset because they wanted a different color. Maybe it's their way of taking control of a world that is so not theirs to control. Either way, I like teaching my children that they can manufacture their own happiness. They don't have to own something to get happiness out of it. 
+
+Also, when we walk by something tempting at the grocery store and they ask for it, I reach out and pretend to grab one, like a cookie. Then I offer it to them. Sometimes they take it. If they don't, I pretend to eat it. I truly pretend. I close my eyes and imagine what it would taste like; what it would feel like to chew. I swear, I can get 80% of the enjoyment from just pretending (with 0% of the calories and 0% of the dollars.) You have to allow yourself get pleasure out of it. And you can. 
+
 ### "Guess and I'll tell you." 
 This is my go-to for when kids ask me how to spell things, or the answer to a non-homework math problem.  I think it's a worthwhile exercise for them to guess, and then hear the correct answer. I respond with the same tone whether they get it right or not. 
 
