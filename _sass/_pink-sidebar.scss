@@ -15,11 +15,16 @@ html {
 	position: fixed;
 	background-color: pink;
 	min-height: 1500px;
+	text-align: center;
 }
 
 .left a:link, .left a:visited, .left a:hover, .left a:active {
 	text-decoration: none;
 	color: white;
+}
+
+.left p {
+	margin-top: -20px;
 }
 
 .left li {
