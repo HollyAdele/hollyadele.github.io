@@ -12,7 +12,7 @@ The reason they do something is because I am the parent and I have authority ove
 
 But it is also great in the long term development of children for them to know the WHY. If they know the why, they can put it in their heart and that can guide them throughout their lives. 
 
-"Because I said so" just feels so good to retort back in their face. This part is automatic, and by habit it leads to the second part. "The reason that I said so" takes the argument out of the emotional fighting brain and into the thinking brain. And teaches them how the world works. And shows you are not a capricious totalitarian. Unless you have a bad reason, then you really are a totalitarian. 
+"Because I said so" just feels so good to retort back in their face. This part is automatic, but by habit it leads to the second part. "The reason that I said so" takes the argument out of the emotional fighting brain and into the thinking brain. And teaches them how the world works. And shows you are not a capricious totalitarian. Unless you have a bad reason, then you really are a totalitarian. 
 
 ### "If you're so big that you don't need to listen to me, you are big enough to buy your own ____"
 
@@ -22,7 +22,7 @@ There are some situations which require immediate obedience, like "don't touch t
 ### "Walk or be carried in 5, 4, 3 ..."
 This is for children who are still carry-able. If it's time to go to the car, they don't have a choice about whether they go now or later or not at all. They are the child, I am the parent; they don't pay or work for anything, they don't choose most of these things, I do. 
 
-When the parent has clear authority, and there is clear (and reasonable) punishment for infractions, I think it makes the relationship better and safer and more enjoyable. If the parent is required to creatively cajole the child into doing everything they need to do, it will exhaust them and they will have no energy for conversation or play, which is what grows the child's brain. 
+When the parent has clear authority, and there is clear (and reasonable) punishment for infractions, I think it makes the relationship better and safer and more enjoyable. If the parent is required to creatively cajole the child into doing everything they need to do, it will exhaust the parent and they will have no energy for conversation or play, which is what grows the child's brain. 
 
 If the parent is required to patently bear with all annoyances and misbehavior the child can dish out, at some point the patience will run out and the parent will snap (usually right before dinner or right before bed, which are key relationship and brain building times.) I think parents should save their emotional energy for the interactions that really matter, not trivial questions like, does the preschooler have to go potty before a trip to the library?
 
@@ -79,8 +79,9 @@ I never say, "You felt furious! That feels so bad." I never tell them feelings f
 ### "We feel sad when we lose something."
 Things, friends, opportunities, etc. 
 
-### "We feel angry when someone does something we don't want them to do, and we think we can change it."
-Or when they don't do something we do want them to do. 
+These short, kid-friendly explanations are so useful in helping kids understand their big feelings. And my big feelings too. 
+
+### "We feel angry when someone hurts us because we might need to protect ourselves." 
 
 ### "We feel infuriated when we see injustice."
 
@@ -93,7 +94,6 @@ Or when they don't do something we do want them to do.
 ### "We feel discouraged when we don't think we have the resources to do something."
 
 ### "We feel annoyed when something is too loud or repetitive."
-These short, kid-friendly explanations are so useful in helping kids understand their big feelings. And my big feelings too. 
 
 ### Page of our book
 DNA is a really useful concept for children to have early. You build a little at a time. 
@@ -105,35 +105,37 @@ This basic understanding is useful when commiserating about certain family trait
 ### "You have money."
 Heidi and Peter get two dollars a week, Austin gets one dollar a week, and Erika and Bethany don't get an allowance. This is related to how many chores they do Saturday morning. Austin is probably coming up on a raise, because his chores have really increased in quality. Don't tell him, though, please save me a few dollars. 
 
-I write a list of all the chores that need to get done, and kids choose what they want to do, one at a time, rotating from oldest to youngest. Oldest chooses first because they have the most jobs. kids can only do as many jobs as they are old. "Yay! It's your birthday! Now you can do-gasp!-three jobs!" This is going to be awesome when I have a bunch of teenagers. If there are any left after all the children have chosen their age number of jobs, I will agree to do 32 chores. No one argues about having more chores than their siblings when I remind them how many I have. 
+I write a list of all the chores that need to get done, and kids choose what they want to do, one at a time, rotating from oldest to youngest. Oldest chooses first because they have the most jobs. Kids can only do as many jobs as they are old. "Yay! It's your birthday! Now you can do-gasp!-three jobs!" This is going to be awesome when I have a bunch of teenagers. If there are any left after all the children have chosen their age number of jobs, I will agree to do 32 chores. No one argues about having more chores than their siblings when I remind them how many I have. 
 
 Some kids choose easy jobs, and some kids choose fun jobs. It's interesting.
 
-If someone doesn't want to do chores, I tell them I will take them off the payroll, and I make it sound like it's permanent. And they will not be able to play video games again until their chore is done. When device time starts they scurry!
+If someone doesn't want to do chores, I tell them they will not be able to play video games again until their chore is done. They dink around all morning, but when device time starts they scurry!
 
-Kids usually have some money saved up, so when they ask for something I say, "You have money." I am willing to buy anything for them if they have the allowance. But they are usually really quick to wise up and think about whether they really want it. They are so frugal with their own money. And if they're not, they learn a lesson. It's a good lesson to learn when it's a Pokemon mug that costs $16 and not thousands of dollars of credit card debt. 
+Kids usually have some money saved up, so when they ask for something I say, "You have money." I am willing to buy anything for them if they have the allowance. But they are usually really quick to wise up and think about whether they truly want it. They are so frugal with their own money. And if they're not, they learn a lesson. It's a good lesson to learn when it's a Pokemon mug that costs $16 and not thousands of dollars of credit card debt. 
 
-Each child's account is kept in those leather checkbook balance books that banks give out. Mint.com keeps track of our transactions, so I don't use the paper ones for my own money. I carry these little books in my purse, so they will always be with me at a store if a child sees something. 
+Each child's account is kept in those leather checkbook balance books that banks give out. [Mint](https://mint.intuit.com/) keeps track of our transactions, so I don't use the paper ones for my own money. I carry these little books in my purse, so they will always be with me at a store if a child sees something. 
 
 ### "You don't have to do it perfectly, you just have to do it." 
-I have some perfectionists, wonder where they got that quality, and sometimes it keeps them from even starting a job.
+I have some perfectionists, wonder where they got that quality, and sometimes it keeps them from even starting a chore.
 
 We try not to nit pick about the quality of jobs. Quality will come with time, hopefully. I'm betting that the important factor in learning to do a chore is number of times completed, not effort spent on each instance. 
 
 We do check if each child did each job. If they missed a spot, I'll either do it for them or acknowledge that I can tell they did the job. 
 
-Our kids really take this phrase to heart when it comes to sweeping the kitchen floor. I'm a little worried about that one still.
+Our kids really take this phrase to heart when it comes to sweeping the kitchen floor. The broom seems to float around the room. 
 
 ### "It's time to do your favorite job!"
-We taught our toddlers that clearing their dishes after a meal is their favorite job, and that it's an insult for someone to do it for you. I made up a song about doing it for them, and I do a really annoying happy dance. We all pretend to like to put away our dishes. We pretend to like to put away their dishes. 
+We taught our toddlers that clearing their dishes after a meal is their favorite job, and that it's an insult for someone to do it for you. I made up a song about doing it for them, and I do a really annoying happy dance. We all pretend to like to put away our dishes. We pretend to like to put away their dishes too. 
 
 They carry their plate, dump it in the trash can, and put it in the correct section of the dishwasher. They get the step stool, dump out their milk in the sink, and put their cup in it's place in the dishwasher. They put their own silverware in there too. 
 
-When we say, "I'm going to do your favorite job!" my toddlers scream and run to do it. This only works if you actually put away their dishes when you say you will. 
+When we say, "I'm going to do your favorite job!" my toddlers scream and run to do it.** This only works if you actually put away their dishes when you say you will. 
 
-Let's talk about monkeys. Some scientists did an experiment on monkeys. If they pressed a button, they got a treat. They did this until the monkeys learned it really well. Then, all of a sudden, the button stopped producing treats. They counted how many times the monkeys continued to press the button. It was six or eight. Then, they made it so the button would only sometimes deliver a treat. And then after a while they turned off all the treats. So the monkeys were used to intermittent rewards, and then suddenly rewards disappeared. Guess how many times the monkeys pressed the button after intermittent rewards? A hundred times. 
+Let's talk about monkeys. Some scientists did an experiment on monkeys. If the monkeys pressed a button, they got a treat. They did this until the monkeys learned it really well. Then, all of a sudden, the button stopped producing treats. They counted how many times the monkeys continued to press the button. It was six or eight. Then, they made it so the button would only sometimes deliver a treat. And then after a while they turned off all the treats. So the monkeys were used to intermittent rewards, and then suddenly rewards disappeared. Guess how many times the monkeys pressed the button after intermittent rewards? A hundred times. 
 
 So if you want kids to keep pressing your buttons, only sometimes give them what they want. 
+
+** Bethany has had five nightmares recently, and when I ask her what happened she says, "Peter was going to do my favorite job!" And so after meals I'm trying to tell her, "I'm going to ask you nicely one time to please do your favorite job." 
 
 ### "I will ask politely one more time."
 I say this with my last shred of patience when I have asked a child to do a job and they have ignored me. If they continue to ignore me, I will mete punishment (right now it's moving clips down.)
@@ -155,12 +157,14 @@ Some things can become a toy, like chopsticks, and we take those too.
 I have reached into a used toilet bowl to retrieve a tiny doggy and really, once is enough. 
 
 ### "No kids on the table."
-I think kids on the table and counters is probably mostly fine, maybe, but I would prefer to not have feet on the table or heads too far from the tile floor. So I don't let kids be on the table. The line is no knees or bums. 
+I think kids on the table and counters is probably mostly fine, maybe, but I would prefer to not have feet on the table or heads too far from the tile floor. So I don't let kids be on the table. I define "kids on the table" as knees or bums resting on the surface. They can lean. 
 
 This rule doesn't mean that teenagers can never sit on the counter, or that parents can't be on the table to fix the light or whatever, but kids shouldn't do those things. Freedom should go from less to more. They should start out life with very few freedoms which gradually increase until they are completely free. If they start with the whole world as their oyster, and then rules are placed on them as teenagers, they will feel sad because they are losing freedom. 
 
 ### "Not food"
 When a child is chewing or sucking on a toy, I make them spit it out and the quickest thing to say is "not food." I think toddlers will understand that more than "don't put that in your mouth." If they don't know the word don't, it will be confusing.
+
+I say this so often about headphone cords. Are they tasty?
 
 ### "Be nice to your future self. Give yourself presents in the future, and not punches."
 Some actions we take today will give a present to our future self, like brushing teeth, or studying for a test. Some give punches to our future self, like leaving clean clothes in the laundry hamper or staying up late. There's a giant conveyor belt with items coming towards us, and our past self placed every one. Live your life so that you always prioritize your future self. Opt for a little pain in the present for a large reward in the future. Don't borrow from your future self, or your life will get worse and worse and you'll have fewer and fewer resources to deal with it. 
@@ -178,18 +182,18 @@ The reason children shouldn't expose themselves in public are nuanced, and hard 
 I don't say, "Gross, put that thing away!" or "Don't let anyone see your bottom!" because I don't want to create difficulties later on. This addresses body safety while not sacrificing body image. 
 
 ### "Wait for your wife."
-When a child is playing with their anus, or penis, or labia, I try not to freak out about germs. I tell them to wait for their husband, or wife. I don't want to say, "Don't touch that!" or "Gross!" or "Do that later when you're alone." I'm saying it's not okay now, but will be okay later when they are married. 
+When a child is playing with their anus, or penis, or labia, I try not to freak out about germs. I tell them to wait for their husband, or wife. I don't want to say, "Don't touch that!" or "Gross!" or "Do that later when you're alone." I'm saying it's not okay now, but will be okay later with the person they have married. 
 
 It has been taught to me that it's important to teach children the anatomical names of their private parts. "Private Parts" is not good enough. I usually take this opportunity when I am changing their siblings' diaper or they are in the bath. I pretend I am not uncomfortable. It's a lot easier when they are younger. 
 
 ### "You can hold hands when you like someone, you can kiss when you have a commitment with someone, and you can be intimate when you are married."
-"Be intimate with" is my euphemism for sex when talking to my children. I like it. The euphemism, I mean.
+"Be intimate with" is my euphemism for sex when talking to my children. 
 
 Children who know their parents' values regarding pre-marital sex are more likely to adhere to them. I like this framework of what sort of touching is appropriate when. I share it with children when they are young. Like three. I like to be the first one to create the framework in their minds. They can judge everything they hear at school by my values, instead of having to impose my views for the first time on a teenager whose crush likes her back. 
 
 ### "You are important, going upstairs is important, going upstairs first is not important."
 
-Sometimes kids are looking for confirmation of their worth or worthlessness by ways people treat them. Like all of us. If they are served last at dinner, they wonder if they are loved least. 
+Sometimes kids are looking for confirmation of their worth or worthlessness by ways people treat them. Like all of us. If they are served last at dinner, they wonder if they are loved least. So when my children fuss over a snub, I affirm they are important to me, I reassure them they will get their needs met, and I call out what is unimportant.
 
 ### "If you want to see the color pink, look at your sister's plate."
 
@@ -205,18 +209,22 @@ I love this one for toddlers. When they are buttoning or zipping, I have them tr
 
 Sometimes they give three half-hearted attempts, sometimes they buckle down and do it themselves on the second try. They get so happy when that happens, and it happens often. 
 
-Child Psychologist Erikson said that toddlers are working on Autonomy vs. Shame and Doubt. Self-confidence comes from thinking you can do things. Fake, dangerous, fixed mindsets of self-confidence come from parents telling children they are smart. Real confidence in self is built on many experiences when they, in fact, did things for themselves.  
+Child psychologist Erikson said that toddlers are working on Autonomy vs. Shame and Doubt. Their stage in life is about being autonomous. 
+
+Self-confidence comes from thinking you can do things. Fake, dangerous, fixed mindsets of self-confidence come from parents telling children they are smart. Real confidence in self is built on many experiences when they, in fact, did things for themselves.  
 
 ### "Wow! You tried so hard!"
-I praise my children more when they struggle, and less when they are successful. Children repeat behaviors they are rewarded for, and I want them to try hard. I don't want them to think it's embarrassing to have to try. If children are rewarded for being smart (looking smart) then they will try all their lives to look smart. Can you picture a lifetime of trying to look smart?  You don't take challenges, because whenever you do something difficult you look dumb at the beginning. You lie and you cheat. You give up quickly. But can you also imagine a lifetime of striving?
+I praise my children more when they struggle, and less when they are successful. Children repeat behaviors they are rewarded for, and I want them to try hard. I don't want them to think it's embarrassing to have to try. If children are rewarded for being smart (which is really just looking smart) then they will try all their lives to look smart. Can you picture a lifetime of trying to look smart?  You don't take challenges, because whenever you do something difficult you look dumb at the beginning. You lie and you cheat. You give up quickly. 
+
+But can you also imagine a lifetime of striving? Of embracing the struggle?
 
 ### "Brauns Keep Trying"
 I want it to be part of my children's identity that they keep trying. 
 
-This is not, "Brauns never give up" because sometimes it's a good idea to give up. But after you've rested, tweaked your plan, gathered more resources or courage, you can try again. 
+This is not, "Brauns never give up" because sometimes it's a good idea to give up. But after you've rested, tweaked your plan, gathered more resources or courage, you can keep trying.
 
 ### The best way to find something is to clean up. And if you still don't find it, at least you have a clean house."
-When you're trying to find something, you have to pick up everything to look underneath it. It's going to be only 10% more effort to put it where it actually goes. And then you won't forget you already looked under it, and pick it up again to check under it a second or third time. 
+When a toy goes missing, you have to pick up everything to look underneath it. It's going to be only 10% more effort to put it where it actually goes. And then you won't forget you already looked under it, and pick it up again to check under it a second or third time. 
 
 And if you don't find it, you don't feel like you wasted an hour. 
 
