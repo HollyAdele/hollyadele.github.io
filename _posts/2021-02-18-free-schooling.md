@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Schooling
-date: 2021-02-18
+date: 2021-03-18
 ---
 
 If I had to describe my home school philosophy in two words, it would be Free Schooling. Children are free to choose what they learn (from a list of available options I have already curated). And the list of available options is heavily influenced by what is free in our community.
