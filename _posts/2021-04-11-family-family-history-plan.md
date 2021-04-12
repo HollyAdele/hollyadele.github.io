@@ -18,7 +18,7 @@ Kids can choose whatever activity they want, as long as it’s approved or on th
 [Reverse indexing](https://familytech.byu.edu/apps/reverse-indexing.html)  
 Read the Brison books and other ancestor stories  
 Take a family walk and read family stories  
-[Family tree scavenger hunt](https://www.hollybraun.com/2021/4/11/family-history-scavenger-hunt.html)  
+[Family tree scavenger hunt](https://www.hollybraun.com/2021/04/11/family-history-scavenger-hunt.html)  
 Ancestor story hunt  
 [Play with the ancestor cards](https://www.hollybraun.com/2020/08/01/ancestor-card-tutorial.html)  
 [Listen to family history talks](https://www.churchofjesuschrist.org/study/general-conference/topics/family-history?lang=eng)  
