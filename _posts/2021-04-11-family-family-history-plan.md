@@ -23,6 +23,16 @@ Ancestor story hunt
 [Play with the ancestor cards](https://www.hollybraun.com/2020/08/01/ancestor-card-tutorial.html)  
 [Listen to family history talks](https://www.churchofjesuschrist.org/study/general-conference/topics/family-history?lang=eng)  
 [Grandparent interviews](https://www.google.com/search?client=firefox-b-1-d&q=grandparent+interivew+question)  
+Interview a Kid on Video
 Ancestor research project  
 Ancestor scrapbooking  
 [Photograph headstones](https://billiongraves.com)  
+[Research wars that your ancestors were in](http://www.daytonmetrolibrary.org/research/databases/def/)
+Were any ancestors in natural disasters?
+Study ancestors from your favorite country
+[Play Record Quest](https://recordquest.fhtl.byu.edu/game)
+Find and prepare a food an ancestor might have eaten
+Recreate a family history photo
+Dress up like an ancestor
+Create a map of an ancestor's place with dough
+

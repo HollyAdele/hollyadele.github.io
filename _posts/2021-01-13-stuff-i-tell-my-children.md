@@ -14,6 +14,10 @@ But it is also great in the long term development of children for them to know t
 
 "Because I said so" just feels so good to retort back in their face. This part is automatic, but by habit it leads to the second part. "The reason that I said so" takes the argument out of the emotional fighting brain and into the thinking brain. And teaches them how the world works. And shows you are not a capricious totalitarian. Unless you have a bad reason, then you really are a totalitarian. 
 
+### "That is not my plan."
+
+When a kid asks me to do something, like go to the playground today, or play hide and seek, and I don't really want to, but I don't have a great reason not to, and I might consider it if they really want it, but haven't been convinced yet, I'll say it's not my plan. It leaves the door open to change my mind, but I could stick to it if they aren't convincing. You don't want to say the word "No" and then change after they while. 
+
 ### "If you're so big that you don't need to listen to me, you are big enough to buy your own ____"
 
 ### "Obey first, ask questions second." 
