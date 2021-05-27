@@ -28,11 +28,11 @@ Ancestor research project
 Ancestor scrapbooking  
 [Photograph headstones](https://billiongraves.com)  
 [Research wars that your ancestors were in](http://www.daytonmetrolibrary.org/research/databases/def/)
-Were any ancestors in natural disasters?
-Study ancestors from your favorite country
-[Play Record Quest](https://recordquest.fhtl.byu.edu/game)
-Find and prepare a food an ancestor might have eaten
-Recreate a family history photo
-Dress up like an ancestor
-Create a map of an ancestor's place with dough
+Were any ancestors in natural disasters?  
+Study ancestors from your favorite country  
+[Play Record Quest](https://recordquest.fhtl.byu.edu/game)  
+Find and prepare a food an ancestor might have eaten  
+Recreate a family history photo  
+Dress up like an ancestor  
+Create a map of an ancestor's place with dough  
 
