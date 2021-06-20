@@ -99,6 +99,14 @@ These short, kid-friendly explanations are so useful in helping kids understand 
 
 ### "We feel annoyed when something is too loud or repetitive."
 
+### "Say,"
+This starts in toddlerhood. "Say 'mama.'"  "Say 'pillow.'" 
+
+And as they grow, I use it to teach them manners. "Say, 'Thanks, Mom, for the pickles." 
+
+And I use it to empower them in conflicts. "Say, 'Stop hitting me!'" My first step in a conflict is to give the victim the words to say that should stop the situation. If the aggressor doesn't respond to the victim's words, I step in. 
+
+
 ### Page of our book
 DNA is a really useful concept for children to have early. You build a little at a time. 
 
