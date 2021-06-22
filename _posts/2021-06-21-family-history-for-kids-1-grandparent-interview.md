@@ -35,6 +35,8 @@ A:_______________________________________________________________________
 Q: What is your favorite time of day?  
 A:_______________________________________________________________________  
 
+I set up the time with the grandparents for the interview, got them started, established that we'd do all of Grandma's questions first, then Grandpa's. I stayed in the room to make sure they were able to understand each other.
+
 I recorded the interview without their knowledge. I intended to tell them. I guess this is me telling you, Mom and Dad. 
 
 I recorded it because one time my parents found an unlabeled cassette tape. When we put it in the player, we found that it was an interview that my dad did with his mother, who had since passed away. 
