@@ -41,6 +41,11 @@ After I have used up my fun, silly, sweet ways to get children to lay down, I sa
 
 This only works if you never give it back because they cry, and if you actually take it when you say you will. If you aren't going to be consistent, they just chalk it up to one more reason why they shouldn't obey you. 
 
+### "Be a woman of your word"
+This is my phrase when talking about honesty, or following through on commitments. I'll ask them, "Are you a man of your word?" It sounds so grown up and I think they like it and want to grow into my expectations.
+
+I say it about myself when they ask why they can't stay five more minutes after I said time to go. "No, I am a woman of my word."  
+
 ### "Better!" 
 When you need to wipe a child's face, just touch it with the cloth and feign happiness and say, "better!" They feel happy you're making progress and they want to look better, and they'll submit if they think it's working. Before I learned this trick, I would wipe their face, and say, "wait, no, there's more, your face is still a disaster, okay, let's keep wiping, no it's still there-" and what they hear is "We will be doing this forever and it will never work and I'll never look presentable so let's just quit now."
 
