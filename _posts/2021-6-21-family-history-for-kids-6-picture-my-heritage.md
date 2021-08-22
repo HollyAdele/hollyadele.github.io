@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family History for Kids Activity 6 - Picture My Heritage
+title: Old Photo Game
 date: 2021-06-21
 ---
 

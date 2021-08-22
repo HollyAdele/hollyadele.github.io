@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family History for Kids Activity 4 - Ancestor Scrapbook
+title: Ancestor Scrapbook
 date: 2021-06-21
 ---
 

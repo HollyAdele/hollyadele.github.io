@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family History for Kids Activity 5 - Record Attaching
+title: Genealogy Documentation Training for Children
 date: 2021-06-21
 ---
 

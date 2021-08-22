@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family History for Kids Activity 1 - Grandparent Interview
+title: Grandparent Interview Questions
 date: 2021-06-21
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family History for Kids Activity 2 - Scavenger Hunt
+title: Family History Scavenger Hunt for Kids
 date: 2021-06-20
 ---
 

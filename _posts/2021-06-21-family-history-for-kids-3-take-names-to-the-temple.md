@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Family History for Kids Activity 3 - Take names to the temple
+title: Family History Role Play
 date: 2021-06-20
 ---
 
