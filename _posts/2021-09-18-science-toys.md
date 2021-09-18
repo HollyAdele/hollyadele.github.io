@@ -134,3 +134,6 @@ Beads are annoying to clean up so let's try not to spill them.
 ------------------------------
 These came with the microscope from the library and I have no idea about them. Maybe they will be interesting for the girls. 
 
+Floating Raisins
+----------------
+Raisins go in a jar with clear soda. They sink initially, but some CO2 bubbles collects on the raisins which makes the raisins float. It's because the air bubbles displace more liquid. The bouyant force increases without increasing the weight of the raisins. So now the raisin-bubble object is less dense than the soda, and it floats. 
