@@ -163,6 +163,16 @@ If a kid is upstairs or on devices, and I say something important, I will requir
 ### "Bum or knees"
 I don't know if it's just my children, but they frequently stand on their chairs at meals. Maybe my table is tall, maybe my children are short, but it happens often. It's pretty quick to say, and doesn't need to derail the conversation. 
 
+### "Drop zone!"
+I teach my children at mealtimes about their drop zone- the area directly under their fork and mouth. I say, everyone drops food off their forks and out of their mouths. The trick is to put your drop zone over your plate. I think my children start thinking about this at 3 years old. Before that, you're in bib land. Anyway, if a child is about to drip food on their shirt I say, "Drop Zone!" and that tells them to lean over their plate. 
+
+### "Do a milk push!"
+Kids spill their cups when the cup is in the area where their arms normally operate. A cup at the top of the plate is usually safe. Whenever I see a cup in a precarious position, I tell them to do a milk push, or a water push. (I usually don't serve juice, because they just drink that first and then are full- just until dinner is over, then they are hungry again. I want them to ingest the fiber that should have come with the juice in the whole fruit.) 
+
+When kids spill milk, I don't give them more milk at the meal. I say, "After you spill milk you get water." Milk is not expensenve, but there is a cost to buying more and cleaning up the spill and I want them to the be one to pay the small cost. 
+
+Montessori teachers like to give very young children open cups. Even open glass cups BECAUSE they will break and teachers are stressed about it. When the adults are very careful with an object and give warnings about the object, it is imparted to the children. They start to learn to be careful and even very small kids can use glass cups properly. (After some number of spills and broken cups.)
+
 ### "Is your tummy full and happy?"
 
 ### "Only food and family (and friends) at the table."
@@ -192,6 +202,13 @@ a meal is a good idea. And when you say five minute warning, set a timer or watc
 
 ### "Winner cleans up"
 When we play a board game, we follow this rule. It's therapeutic, to lose and then get to just walk away. 
+
+### "Look up and sniff."
+I invented a solution for runny noses and congested babies. Try it yourself: when you have the sniffles, take a few drinks of water, and then look up and sniff. After a couple breaths, you'll feel mucus go down your throat and then you don't have to snuffle anymore. 
+
+Older kids can go get their own drink, although they usually can't be bothered. The sniffing is bothering me so I get them a drink. Then I prop their head back and have them sniff and I watch for the swallow. 
+
+Babies are a little trickier but totally possible. You can achieve the same thing by having them lay down and drink their bottle. Except you lift up their back until their head is tilted. If you're nursing, put them in your lap and lean down to latch them on. Then lift up their back and sort of push their head down.  By the time their little tummy is full, their nose should be clear. This is a very awkward position but SO MUCH more pleasant than sucking their noses out by any other method. 
 
 ### "We don't want to show too much of your beautiful body to too many people."
 The reason children shouldn't expose themselves in public are nuanced, and hard to explain. This is what I've come up with. 
