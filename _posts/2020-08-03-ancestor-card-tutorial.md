@@ -8,11 +8,20 @@ date: 2020-08-01
 
 My children love Pokémon cards, which gave me an idea. What if I made a set of cards with pictures and details... but instead of Pokémon they had ancestors on them?! Then I could bring their picture out when I was talking about them, or we could build the family tree, or I could hide them around the room and the children can "gather Israel." 
 
-I also am a teacher, and I think I can teach history and geography with them. It's easy to care about the Crimean War if you know your ancestors lived Crimea. 
+I also am a teacher, and I think I can teach history and geography with them. It's easy to care about the Crimean War if you know your ancestors lived in Crimea. 
 
 I want my children to be familiar with their ancestors so family histories can influence them, and they can have a head start on doing family history themselves. This project is part of my quest to figure out how to teach the gospel in a hands-on, Montessori way. 
 
 ![eight ancestor cards. Four face up, four face down. Face up ones show two men and two women. The face down ones show names and relationships.](/post-images/ancestor-cards/gallery.jpg)
+
+I pull them out whenever someone tells a story about an ancestor. It gives my children a sticky mental platform to attach the story to. It's also so easy to send a child into a Sunday School class with a card when they're asked to bring a family story to share. 
+
+![a son, a father, and a grandfather gather around the ancestor cards](/post-images/ancestor-cards/family-photos.jpg)
+
+I use them in Primary. Young children like "finding their ancestors." It is a hefty challenge for the group to assemble the family tree!
+
+![girls lay out the relationship side of the cards in the shape of a tree.](/post-images/ancestor-cards/girls-tree.jpg)
+![boys gather around to assemble a tree also](/post-images/ancestor-cards/boys-tree.jpg)
 
 I made about 120 cards. They're a boatload of work, but it's fun work. I can show you what to do. 
 
