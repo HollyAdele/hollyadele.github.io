@@ -3,12 +3,8 @@ layout: post
 title: Family History Work and Young Motherhood
 date: 2022-01-12
 ---
-
-I was looking through some stake family history newsletters for an article, and I haven't found it yet. But I did find an article I wrote a few years ago that I am really proud of. 
-
-By Holly Braun, Kettering Ward Consultant
 ![a pregnant woman holding two young children standing in front of the Washington DC temple](/post-images/handful.jpg)
-In the five years since this photo was taken, I’ve added two
+In the seven years since this photo was taken, I’ve added two
 more children to the three pictured here, and I am still a spectacle.
 Strangers can’t pass by me without commenting how full my hands
 are.  
