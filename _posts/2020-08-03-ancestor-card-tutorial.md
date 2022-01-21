@@ -8,6 +8,8 @@ date: 2020-08-01
 
 My children love Pokémon cards, which gave me an idea. What if I made a set of cards with pictures and details... but instead of Pokémon they had ancestors on them?! Then I could bring their picture out when I was talking about them, or we could build the family tree, or I could hide them around the room and the children can "gather Israel." 
 
+![children sitting with cards arranged in a family tree shape](/post-images/ancestor-cards/card-tree.jpg)
+
 I also am a teacher, and I think I can teach history and geography with them. It's easy to care about the Crimean War if you know your ancestors lived in Crimea. 
 
 I want my children to be familiar with their ancestors so family histories can influence them, and they can have a head start on doing family history themselves. This project is part of my quest to figure out how to teach the gospel in a hands-on, Montessori way. 
