@@ -4,6 +4,12 @@ title: Ancestor Scrapbook
 date: 2021-06-21
 ---
 
+Download the Family Tree app and sign on with your church account. Navigate to an ancestor you want to make a scrapbook about. 
+
+Click on their "Details", "Spouse", and "Parents" tabs to get a feel for the person. Maybe print off a screenshot of family members? Visit the "Documents" and "Memories" tabs to print cool things you find. Stories, pictures, newspaper articles, census records. 
+
+This is a good opportunity to teach your child what these things are and why they are useful for family history. 
+
 Heidi chose to use several weeks on this activity. She picked an ancestor, and then looked at her Family Search profile. She printed off the pictures and documents that she liked and arranged them in a little book. 
 
 I think this is good because she looked in depth at the sources and tried to piece together her ancestor's life. She didn't find any new sources, but she got practice in working with sources and inferring details from them. 
