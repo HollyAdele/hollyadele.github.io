@@ -257,6 +257,11 @@ I want it to be part of my children's identity that they keep trying.
 
 This is not, "Brauns never give up" because sometimes it's a good idea to give up. But after you've rested, tweaked your plan, gathered more resources or courage, you can keep trying.
 
+### When something is too hard, we break it up!
+This concept is borrowed from programming. When you want your software or website to have a feature, you make a list of all the parts it needs. Then you try to program each part. But sometimes it's still too hard, so you break each thing up into more simple components. You do this, writing down all the other steps. Then your brain can use all of its focus on one small problem at a time (and honestly programming is so hard that even small problems are difficult.)
+
+This concept is used with children when they are doing chores like cleaning their room. Break it up! Let's do bedding, then clothes, then toys, then random stuff that doesn't belong in the room, then trash. 
+
 ### The best way to find something is to clean up. And if you still don't find it, at least you have a clean house."
 When a toy goes missing, you have to pick up everything to look underneath it. It's going to be only 10% more effort to put it where it actually goes. And then you won't forget you already looked under it, and pick it up again to check under it a second or third time. 
 
