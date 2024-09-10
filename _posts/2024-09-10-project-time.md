@@ -23,6 +23,7 @@ Here are links to free software that I love.
 [Web Synths](https://www.websynths.com/)  
 
 
-## These two require downloads:
+## These require downloads:
 [Algodoo](http://www.algodoo.com/)  
 [Powder toy](https://powdertoy.co.uk/)
+[Minecraft Education Edition](https://education.minecraft.net/en-us)
