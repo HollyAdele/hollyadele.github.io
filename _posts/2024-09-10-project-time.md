@@ -25,5 +25,7 @@ Here are links to free software that I love.
 
 ## These require downloads:
 [Algodoo](http://www.algodoo.com/)  
-[Powder toy](https://powdertoy.co.uk/)
-[Minecraft Education Edition](https://education.minecraft.net/en-us)
+[Powder toy](https://powdertoy.co.uk/)  
+[Minecraft Education Edition](https://education.minecraft.net/en-us)  
+[GIMP](https://www.gimp.org/downloads/)  
+[Inkscape](https://inkscape.en.softonic.com/mac)  
