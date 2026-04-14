@@ -1,0 +1,53 @@
+![me being really excited about computer parts](/post-images/built-a-pc/me-and-pieces.jpg)
+
+Our family needed another computer. I couldn't decide what kind I wanted, Mac or PC? Laptop or Desktop? Obviously there are pros and cons and I wanted all the pros and none of the cons. 
+
+Bryan asked me, "Which of our computers is the most useful to us right now?" And I answered, Peter's, the hand-me-down from a friend. In it's day, that computer was top of the line. After some years, it was no longer top of the line so he bought himself a new one and gave the old one to us. After a serious vacuum and literal debugging session, it worked so well. It didn't play the newest games but it definitely plays Minecraft. 
+
+I learned that really nice computers stay relevant for a long time. And they are fast for that whole lifetime. Cheap laptops are relevant for a year or two, and are slow and painful the whole time. 
+
+So I wanted a computer like Peter's, top of the line. Our kids use computers for a little creating and a lot of gaming, and many games are built for PC but not for Mac. So I started shopping for a PC. But some are a lot of money and others are not a lot of money and I didn't know why. 
+
+So I started researching what all those numbers mean in their Amazon listing. 
+
+Here is a "iBuyPower Pro Y60 Gaming PC Computer Desktop Y60BI9N4701 (Intel i9-13900KF 3.0 GHz, Nvidia GeForce RTX 4070 12GB, 32 GB 5200 MHz DDR5 RAM, 1TB NVMe SSD, WiFi Ready, Windows 11 Home),Black" for the low price of $1,999.99.  
+
+![really nice computer](/post-images/built-a-pc/rainbow-computer.jpg)
+
+The most important thing here is the numbers after the word "Intel" or "Intel Core." In this case it's i9. Your choices are i3, i5, i7, and i9. A lame office job would only need an i3. If you want to be fancy and make your employees feel better while doing simple word processing or browsing, you want an i5. If you're playing serious games or editing videos you should get an i7. If you want to play serious games, record multiple screens and edit video all at the same time while hosting a Minecraft server- you need an i9. 
+
+The next most important numbers is after the dash. "13900" represents the generation. Wikipedia has [charts of all the processors ever made](https://en.wikipedia.org/wiki/List_of_Intel_processors). You can look up when each processor came out. We're currently on the 14th generation, or 14000. I tried to get a refurbished PC on Amazon and it was an i7, but it was also like an 800 generation. So this was a good computer in like 2017. Software has come a long way since then and older computers can't run it. 
+
+Those letters at the end, "KF", each mean something. Google "what does a K mean at the end of a processor number?" K means unlocked for overclocking (which is like taking off the safety belt to go faster. It goes faster but wears out your processor faster.) F means it doesn't have it's own graphics processor so you have to buy your own graphics card. Which, if you were intending to do that anyway, you don't want to waste money or space on graphics processing. 
+
+This graphics card is described by the numbers "GeForce RTX 4070 12GB". RTX is the newer kind that can run AI stuff better. 4070 refers to the generation. 
+
+"32 GB 5200 MHz DDR5 RAM" talks about the RAM. I got 32GB on my build as well. Not because I am doing serious tasks but because future simple games will require that much RAM. I want my computer to be able to keep up in ten years. The DDR5 part is talking about RAM generation. I chose DDR6 because it will work better longer.
+
+This says "wifi ready" which you should understand to mean "doesn't have wifi."
+
+And a Windows 11 license is not that impressive. If you go on Microsoft's website, you see that they are a lot of money. However, it is possible to buy a lot of licesnses in bulk for less per unit. Businesses or schools need to do this. Some websites buy licenses in bulk also, and then sell them at a profit. I trust the process enough to have purchased my license there. 
+
+"1TB NVMe SSD" talks about hard drive storage. I recommend SSD, or solid state. My Macbook, which was built in like 2003, was unmanageably slow until I switched the spinning hard drive (HDD) for an SSD.  I didn't want a terabyte (1TB) because two of our other computers have 1TB SSDs and that's enough storage for my family. 
+
+You'll notice this description says nothing about the motherboard. If the builder doesn't mention it, it's probably not that great. Or it's HP proprietary or something, which means it will be difficult to replace. If you don't find an exact replacement, your components may not fit anymore. 
+
+So that's what all the important numbers mean. There are dozens of options for each part. And only some play well with some and you really need to buy the correct one. 
+
+So I actually am not the person who designed my computer. The Microcenter (Walmart of computers) website has a PC builder tool that should tell you if all your parts fit together. But I didn't trust myself enough to figure out. I found a sub Reddit called ["Build me a PC"](https://www.reddit.com/r/buildmeapc/?rdt=45427) where computer enthusiasts lurk and respond to requests. A person posts a query saying their budget, their use case, if they already have any parts, and whatever. Then community members post their PC Parts Picker shopping list and they critique each other's builds (sometimes politely). It's fun for them, to find the best cheapest parts. They get cred for good builds that stay in the budget. 
+
+Tip: you might find deals around Black Friday. This definitely used to be true. However, I have become suspicious that stores used to sell nice tech on Black Friday but now they are just clearing out last year's inventory before the holiday season. So if it's like October and you can wait, see if prices go down for Black Friday (For the pieces you want).
+
+![boxes of computer parts](/post-images/built-a-pc/pieces.jpg)
+
+Once all the pices come in the mail... you have to put them together. It's like a jigsaw puzzle, but actually tricky and also saves you hundreds of dollars. I watched a couple of videos to teach me how to do it. [This](https://www.youtube.com/watch?v=PXaLc9AYIcg) was my favorite because of his sweet accent. 
+
+Austin was the most interested in the process, so I built it once to figure it out, and then I took it apart so I could have him do it. ![me and austin holding a motherboard](/post-images/built-a-pc/me-and-austin-building.jpg)
+
+We had to set it up on the floor in the utility room so I could plug right into the router. Because how do you download the drivers for your wifi receiver... if you don't have a working wifi receiver? 
+
+![happy austin in the basement next to a computer on the floor](/post-images/built-a-pc/happy.jpg)
+
+And here is Austin, depicting what it looks like when you have to do a magic dance and incantation to get past the Microsoft money traps.
+
+![frustrated austin in the basement next to a computer on the floor](/post-images/built-a-pc/frustrated.jpg)

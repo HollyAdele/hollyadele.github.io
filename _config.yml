@@ -2,9 +2,8 @@
 title: Holly Braun
 email: hbraun25@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  I graduated from BYU in elementary education. Now I teach three students, my
-  daughter and my sons. I'm passionate about motherhood, family history, and
-  building the kingdom. Allow me to share my thoughts with you!
+  I graduated from BYU in elementary education. Now I teach five students, my
+  daughters and my sons. I'm passionate about math, minecraft, soccer, and biking. Allow me to share my thoughts with you!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.hollybraun.com" # the base hostname & protocol for your site
 twitter_username: hbraun25
