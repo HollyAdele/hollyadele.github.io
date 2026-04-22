@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Primary/Special Election
-permalink: /4k
+title: Bond Issue
+permalink: /bond-issue/
 ---
 
-### Bond Issue
 Do children need brand new schools to learn? No.   
 
 Do brand new schools attract new families and good teachers? They do. 

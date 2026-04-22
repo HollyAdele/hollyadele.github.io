@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Kettering City Council
-permalink: /city-council
+permalink: /city-council/
 ---
 
-I have a friend whose son's friend's father is Ryan Konkel. My friend said they were a great family. 
+Ryan Konkel is my friend's son's friend's dad. My friend said they were a great family. As a firefighter and EMS tech, he has been in our neighborhoods and homes. He has been there for us at our worst.  
 
 Sandra Brasington was endorsed by Jim Tressel, the head coach of OSU football. They won a lot of games, and he donated a lot of money.  But according to his Wikipedia page, he looked the other way, on two separate occasions, when he had knowledge of serious violations of his players. For this reason, I don’t trust his endorsement of Sandra Brasington.
 

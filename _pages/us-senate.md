@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Primary/Special Election
-permalink: /4k
+title: US Senate
+permalink: /us-senate/
 ---
 
-
-
-
-### US Senate: Sherrod Brown vs. Ron Kincaid
+### Sherrod Brown vs. Ron Kincaid
 A couple of weeks ago, I attended a meeting where I heard from the candidates on the May 5 ballot. Sherrod Brown sent his campaign manager, and I loved her. 
 
 Ron Kincaid attended in person and said that Ohio voters had already voted against Sherrod Brown. Instead, they chose even Bernie Moreno, who cheated his workers. Mr. Kincaid said that this shows that Ohio voters want something different than what Sherrod Brown is offering. Mr. Kincaid said he will sit down with Republicans and work with them. I think that’s a good plan. There are reasons why people voted Republican in 2024, and they still exist. Compromise is essential in a plural society.  If elected leaders do not listen and come to an agreement, voters become disaffected and want to burn it all down. Which has been occurring. 

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Primary/Special Election
-permalink: /4k
+title: US House of Representatives
+permalink: /us-house/
 ---
 
-### US House of Representatives OH-10 
-Foggie vs Knickerbocker vs Pombo vs Kinner vs Beckett vs Esrati. 
+### Foggie vs Knickerbocker vs Pombo vs Beckett vs Esrati vs Kinner
+A couple of weeks ago, I attended a meeting where I heard from the candidates on the May 5 ballot.
+
 The moderator asked these candidates, “What will you do to hold President Trump accountable?” I think Foggie, Knickerbocker, and Pombo said versions of “Just send me to Washington.” Which actually isn’t a plan. Beckett was aware that as a member of the House of Representatives, she could impeach but not remove Trump. Jan Kinner said, “More Democrats in Washington,” and “the power of the purse.” The power of the purse is exactly the correct answer, from a Constitutional perspective. 
 
 Kinner’s online issue positions look thoughtful and well-researched.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ohio Attorney General
-permalink: /attorney-general
+permalink: /attorney-general/
 ---
 
 ### Elliot Forhan vs. John Kulewicz
