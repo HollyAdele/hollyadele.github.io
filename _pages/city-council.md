@@ -4,7 +4,23 @@ title: Kettering City Council
 permalink: /city-council/
 ---
 
-Ryan Konkel is my friend's son's friend's dad. My friend said they were a great family. As a firefighter and EMS tech, he has been in our neighborhoods and homes. He has been there for us at our worst.  
+Ryan Konkel is my friend's son's friend's dad. My friend said they were a great family. As a firefighter and EMS tech, he has been in our neighborhoods and homes. He has been there for us at our worst. 
+
+I emailed Ryan with some questions, and here are his answers:
+
+1. How should the city balance development with maintaining neighborhood character? Can you give an example of a project you would support or oppose?
+I think it really comes down to listening to the people who live here. Growth is important, we want to attract businesses and keep Kettering strong but it shouldn’t come at the expense of what people love about their neighborhoods. I’d support projects that reinvest in areas that need it, strengthen and support local businesses, and add things like walkability and community spaces. I’d be more cautious with anything that dramatically changes the feel of an established neighborhood without clear benefits and resident input. 
+
+2. Can you describe a situation where you disagreed with people in your own political party? What did you do?
+I don’t really approach things from a party perspective I try to focus on what makes sense for the community. In my work, I deal with different viewpoints all the time, and not everyone agrees. When that happens, I try to listen, understand where people are coming from, and work toward a solution. If I think something isn’t the right call, I’m comfortable speaking up respectfully.
+
+3. Do you believe the 2020 presidential election was conducted fairly? Why or why not?
+Yes, I believe it was conducted fairly based on the evidence, court decisions, and bipartisan reviews. At the end of the day, having confidence in our elections matters, and that confidence should be grounded in facts.
+
+4. How have your experiences in your job with community members shaped your opinions on public policy?
+My career has really shown me how decisions impact people in real life.  I work with the community during some pretty critical moments, and it reinforces how important things like public safety, communication, and preparedness are. It’s made me focus on practical solutions, things that actually work and make a difference for people day to day.
+
+I also sent questions to Sandra Brasington on April 30, and I will post them when I receive them. 
 
 Sandra Brasington was endorsed by Jim Tressel, the head coach of OSU football. They won a lot of games, and he donated a lot of money.  But according to his Wikipedia page, he looked the other way, on two separate occasions, when he had knowledge of serious violations of his players. For this reason, I don’t trust his endorsement of Sandra Brasington.
 
