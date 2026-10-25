@@ -16,7 +16,7 @@ Vivek Ramaswamy's website says he wants to "slash" property taxes and eliminate 
 
 A question I would prefer to ask is, WHY are people using public assistance? Was their education inadequate? (that's a state issue) Is it possible for them to be successful in the economy? (that's a state issue)
 
-Humans have been successful as a species because we worked together. Tribes that cooperated, survived better. Now that we're in cities and civilazations, working together looks like taxes and public spending. 
+Humans have been successful as a species because we worked together. Tribes that cooperated, survived better. Now that we're in cities and civilizations, working together looks like taxes and public spending. 
 
 Humans have natural variation. The circumstances we find ourselves in determines which traits are favorable and unfavorable. For example, it is favorable to have long femurs. Tall people make more money. I want to live in a society where you can have a good life whether or not your traits happen to be favorable. Our society is so abundant that we can support our neighbors who haven't profited quite so much from globalization and automation. 
 
@@ -34,7 +34,7 @@ All of this is to say, I'm uncomfortable with Vivek Ramaswamy's plan to "slash" 
 
 Number 3 of his priorities is to "embrace Ohio's natural resources." I don't know exactly what that means, but I think it means degrading the environment to extract non-renewable energy. Not a fan. Trump administration priorities are to reduce investment in clean energy and stop requiring effient use of it. I believe Ramaswamy will fall in line.
 
-Number 4 is "crush crime" in cities. I have come to learn that being "tough on crime" means putting black people in jail because they were selling/doing drugs. The jail time and life-long felony status bars them from employment and sets up future black generations for more selling/doing drugs and just perpetuates the cycle. In addition to "backing the blue," like Ramaswamy promises, I'd like to "invest in schools" to give children of all colors the education they need to be happy and productive. 
+Number 4 is "crush crime" in cities. From reading books written from the perspective of those affected from "tough on crime" policies, I have come to learn that being "tough on crime" means putting black people in jail because they were selling/doing drugs. The jail time and life-long felony status bars them from employment and sets up future black generations for more selling/doing drugs and just perpetuates the cycle. In addition to "backing the blue," like Ramaswamy promises, I'd like to "invest in schools" to give children of all colors the education they need to be happy and productive. 
 
 Wikipedia says in college Ramaswamy would, under the name Da Vek, perform libertarian-themed raps. I would like to see one of those. 
 

@@ -6,29 +6,19 @@ permalink: /charter/
 
 The mayor, Bryan Suddith, appointed a citizen's committee to review the city charter. 
 
-Steven Strain: lawyer. 
+- Steven Strain: lawyer. 
+- Mary Beth Lehman: wealth management marketer. 
+- Bill Lautar: city councilman, Dor-wood optimist member. 
+- Al Fullenkamp: Finance and personnel chair of the Board of Trustees for RTA. 
+- Diane Farrell: TEDxDayton Steering committee member, from Montgomery County Educational Service Center. 
+- Gwen Owen: member of the City of Kettering Community Relations Board. 
+- Chuck Havener: Reynolds and Reynolds board member, raises money for Fairmont athletics. 
+- Matt Wahrhaftig: Nonprofit fundraiser, certified in Ethical Fundraising. "Crypto Dabbler". 
+- Ron Klein: all I could find online was a doctor by this name in Columbus. Does he commute an hour every day? I don't know. Happy to update his tiny bio if I receive more information.
+- Nick Raines: Director of the Dayton Literary Peace Prize? Manager for Individual Giving at Dayton Philharmonic Orchestra. 
+- Bethany Roush: Marketing Manager at ACCO Brands. 
 
-Mary Beth Lehman: wealth management marketer. 
-
-Bill Lautar: city councilman, Dor-wood optimist member. 
-
-Al Fullenkamp: Finance and personnel chair of the Board of Trustees for RTA. 
-
-Diane Farrell: TEDxDayton Steering committee member, from Montgomery County Educational Service Center. 
-
-Gwen Owen: member of the City of Kettering Community Relations Board. 
-
-Chuck Havener: Reynolds and Reynolds board member, raises money for Fairmont athletics. 
-
-Matt Wahrhaftig: Nonprofit fundraiser, certified in Ethical Fundraising. "Crypto Dabbler". 
-
-Ron Klein: a doctor on Columbus? I don't know.   
-
-Nick Raines: Director of the Dayton Literary Peace Prize? Manager for Individual Giving at Dayton Philharmonic Orchestra. 
-
-Bethany Roush: Marketing Manager at ACCO Brands. 
-
-So they are not random citizens off the street. They also don't appear overly partisan. 
+So they are not random citizens off the street. They seem quite upstanding. They also don't appear overly partisan. 
 
 The committee made a few edits. 
 

@@ -22,7 +22,7 @@ This election is focusing on high costs. Democrats are mad that the Iran war has
 
 I don't view money spent on immigrants as a waste. I view it as an investment. Money we spend to help immigrants thrive will come back to the state in hard work, in taxes, and in contributions to society. 
 
-Disparaging LGBTQ people is a cheap tactic. Sherrod Brown defends transgender people, and Husted's anti-Sherrod Brown ads say that is a bad thing. He does it because a misunderstood minority can be made to be THEM and a THEM can be used for political purposes. In this case, Republicans can throw a political opponent under the bus by twisting nuances out of situations. Getting young people healthcare that will reduce misery and suicidality is a good thing, not a scary thing. Denying life-saving treatment is a scary thing. 
+Sherrod Brown comes under fire for defending transgender people. But there is nothing scary about getting young people healthcare that will reduce misery and suicidality. Denying life-saving treatment is a scary thing.  
 
 Wikipedia says that Jon Husted enabled wider school choice. This means that he helped take public dollars away from public schools and public priorities. 
 

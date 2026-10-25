@@ -7,7 +7,7 @@ permalink: /auditor-of-state/
 ### Annette Blackwell 
 ### vs Frank LaRose
 
-The winner of this election gets a seat on the electoral map-drawing commission. 
+The winner of this election gets a seat on the electoral map-drawing commission. I feel this is an under-rated race. I have seen a total of one sign for Annette Blackwell. 
 
 Blackwell: turned around a city's finances and received awards for clean audits.  
 LaRose: gerrymanderer. medium corruption score. subverted the democratic process to restrict reproductive freedom. strengthened election technology and security-- until Trump came along, then followed Trump's election rhetoric.

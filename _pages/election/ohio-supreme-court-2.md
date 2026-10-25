@@ -11,7 +11,9 @@ Colleen O'Donnell was an immigration judge at the Texas border. The fourth sente
 
 That's a hard no for me. The United States birthrate is going down, and is now below replacement level. Our population will age and shrink. When cities shrink, buildings shutter closed and fall into disrepair. Fewer workers have to support a greater number of elderly. There is less capitol for business inestment. The economy shrinks. Investments don't grow.
 
-I think we need immigration. Yet Colleen O'Donnell let zero immigrants in who were fleeing dangerous situations. I don't know what it's like to be the person to hear these harrowing tales, say no, and send the person back into peril. 
+There are places where resources are scarce. The West is running out of water, so the flow of immigrants to that area needs to be carefully controlled. We control it through legal immigration.
+
+Yet Colleen O'Donnell let zero immigrants in who were fleeing dangerous situations. Appearing before a judge to request asylum is a legal pathway. I don't know what is it like to hear these harrowing tales of drug cartel violence, murdered family members, and starvation. 
 
 She admitted not one person?
 
