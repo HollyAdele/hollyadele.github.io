@@ -26,9 +26,7 @@ All of this is to say that, as our society progresses, gaps between rich or poor
 
 So I think society should support those who need it. With taxes. 
 
-Will everyone become moochers if that is a valid way of life? I don't think so, because careers bring satisfaction and purpose. It doesn't feel good to scroll on phones all day. Right now we depend on people working to fulfill their most fundamental needs: food, shelter, clothing. We could live in a world where people are drawn to work for self-actualization. 
-
-![maslow's hierarchy of needs](/post-images/maslow.webp)
+Will everyone become moochers if that is a valid way of life? I don't think so, because careers bring satisfaction and purpose. It doesn't feel good to scroll on phones all day. 
 
 All of this is to say, I'm uncomfortable with Vivek Ramaswamy's plan to "slash" taxes. 
 
